@@ -1,0 +1,532 @@
+[
+    {
+        "destino_id": 1,
+        "nombre_destino": "Japón",
+        "tours": [
+            {
+                "id": 101,
+                "titulo": "Tokio y Kioto en 7 días",
+                "precio": 1390,
+                "duracion": "7 días",
+                "imagen": "assets/images/tour_tokio_kioto.jpg",
+                "descripcion_corta": "Circuito clásico por las ciudades más emblemáticas.",
+                "destacado": true
+            },
+            {
+                "id": 102,
+                "titulo": "Aventura en Hokkaido",
+                "precio": 1150,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_hokkaido.jpg",
+                "descripcion_corta": "Naturaleza y nieve en el norte de Japón.",
+                "destacado": false
+            },
+            {
+                "id": 103,
+                "destino_id": 1,
+                "titulo": "Templos de Nara y Osaka",
+                "precio": 890,
+                "duracion": "3 días",
+                "imagen": "assets/images/tour_nara_osaka.jpg",
+                "descripcion_corta": "Descubre la historia antigua de Japón.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 2,
+        "nombre_destino": "Tailandia",
+        "tours": [
+            {
+                "id": 201,
+                "destino_id": 2,
+                "titulo": "Playas de Phuket",
+                "precio": 750,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_phuket.jpg",
+                "descripcion_corta": "Relájate en las mejores playas tailandesas.",
+                "destacado": true
+            },
+            {
+                "id": 202,
+                "destino_id": 2,
+                "titulo": "Bangkok cultural",
+                "precio": 680,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_bangkok.jpg",
+                "descripcion_corta": "Visita templos y mercados tradicionales.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 2,
+        "nombre_destino": "Tailandia",
+        "tours": [
+            {
+                "id": 201,
+                "destino_id": 2,
+                "titulo": "Playas de Phuket",
+                "precio": 750,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_phuket.jpg",
+                "descripcion_corta": "Relájate en las mejores playas tailandesas.",
+                "destacado": true
+            },
+            {
+                "id": 202,
+                "destino_id": 2,
+                "titulo": "Bangkok cultural",
+                "precio": 680,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_bangkok.jpg",
+                "descripcion_corta": "Visita templos y mercados tradicionales.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 2,
+        "nombre_destino": "Tailandia",
+        "tours": [
+            {
+                "id": 201,
+                "destino_id": 2,
+                "titulo": "Playas de Phuket",
+                "precio": 750,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_phuket.jpg",
+                "descripcion_corta": "Relájate en las mejores playas tailandesas.",
+                "destacado": true
+            },
+            {
+                "id": 202,
+                "destino_id": 2,
+                "titulo": "Bangkok cultural",
+                "precio": 680,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_bangkok.jpg",
+                "descripcion_corta": "Visita templos y mercados tradicionales.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 3,
+        "nombre_destino": "Vietnam",
+        "tours": [
+            {
+                "id": 301,
+                "destino_id": 3,
+                "titulo": "Vietnam del norte",
+                "precio": 820,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_hanoi.jpg",
+                "descripcion_corta": "Explora Hanoi y la bahía de Ha Long.",
+                "destacado": true
+            },
+            {
+                "id": 302,
+                "destino_id": 3,
+                "titulo": "Vietnam del sur",
+                "precio": 790,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_saigon.jpg",
+                "descripcion_corta": "Ho Chi Minh y el delta del Mekong.",
+                "destacado": false
+            },
+            {
+                "id": 303,
+                "destino_id": 3,
+                "titulo": "Ruta completa de Vietnam",
+                "precio": 1420,
+                "duracion": "10 días",
+                "imagen": "assets/images/tour_vietnam_completo.jpg",
+                "descripcion_corta": "De norte a sur en un solo viaje.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 4,
+        "nombre_destino": "India",
+        "tours": [
+            {
+                "id": 401,
+                "destino_id": 4,
+                "titulo": "Triángulo dorado",
+                "precio": 950,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_triangulo_dorado.jpg",
+                "descripcion_corta": "Delhi, Agra y Jaipur en un solo tour.",
+                "destacado": true
+            },
+            {
+                "id": 402,
+                "destino_id": 4,
+                "titulo": "Sur espiritual",
+                "precio": 1050,
+                "duracion": "7 días",
+                "imagen": "assets/images/tour_sur_india.jpg",
+                "descripcion_corta": "Templos y vida local en Tamil Nadu.",
+                "destacado": false
+            },
+            {
+                "id": 403,
+                "destino_id": 4,
+                "titulo": "Varanasi y el Ganges",
+                "precio": 820,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_varanasi.jpg",
+                "descripcion_corta": "Rituales sagrados en el río más famoso.",
+                "destacado": false
+            },
+            {
+                "id": 404,
+                "destino_id": 4,
+                "titulo": "Himalayas en India",
+                "precio": 980,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_himalayas_india.jpg",
+                "descripcion_corta": "Paisajes únicos y pueblos de montaña.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 5,
+        "nombre_destino": "China",
+        "tours": [
+            {
+                "id": 501,
+                "destino_id": 5,
+                "titulo": "Beijing esencial",
+                "precio": 990,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_beijing.jpg",
+                "descripcion_corta": "Muralla China, Ciudad Prohibida y más.",
+                "destacado": true
+            },
+            {
+                "id": 502,
+                "destino_id": 5,
+                "titulo": "Shanghai moderno",
+                "precio": 870,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_shanghai.jpg",
+                "descripcion_corta": "Fusión de lo antiguo y lo futurista.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 6,
+        "nombre_destino": "Corea del Sur",
+        "tours": [
+            {
+                "id": 601,
+                "destino_id": 6,
+                "titulo": "Seúl cultural",
+                "precio": 860,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_seul.jpg",
+                "descripcion_corta": "Palacios, mercados y gastronomía coreana.",
+                "destacado": true
+            },
+            {
+                "id": 602,
+                "destino_id": 6,
+                "titulo": "Jeju y naturaleza",
+                "precio": 910,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_jeju.jpg",
+                "descripcion_corta": "La isla volcánica más famosa de Corea.",
+                "destacado": false
+            },
+            {
+                "id": 603,
+                "destino_id": 6,
+                "titulo": "Ruta K-pop y moda",
+                "precio": 980,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_kpop.jpg",
+                "descripcion_corta": "Un recorrido por la cultura pop coreana.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 7,
+        "nombre_destino": "Indonesia",
+        "tours": [
+            {
+                "id": 701,
+                "destino_id": 7,
+                "titulo": "Bali espiritual",
+                "precio": 880,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_bali.jpg",
+                "descripcion_corta": "Templos, playas y arrozales en la isla mágica.",
+                "destacado": true
+            },
+            {
+                "id": 702,
+                "destino_id": 7,
+                "titulo": "Java volcánica",
+                "precio": 920,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_java.jpg",
+                "descripcion_corta": "Aventura entre volcanes y templos antiguos.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 8,
+        "nombre_destino": "Nepal",
+        "tours": [
+            {
+                "id": 801,
+                "destino_id": 8,
+                "titulo": "Katmandú y sus valles",
+                "precio": 690,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_katmandu.jpg",
+                "descripcion_corta": "Cultura y arquitectura en la capital de Nepal.",
+                "destacado": true
+            },
+            {
+                "id": 802,
+                "destino_id": 8,
+                "titulo": "Trekking en Annapurna",
+                "precio": 1250,
+                "duracion": "9 días",
+                "imagen": "assets/images/tour_annapurna.jpg",
+                "descripcion_corta": "Una experiencia inolvidable en el Himalaya.",
+                "destacado": false
+            },
+            {
+                "id": 803,
+                "destino_id": 8,
+                "titulo": "Ruta budista",
+                "precio": 840,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_budismo_nepal.jpg",
+                "descripcion_corta": "Monasterios, espiritualidad y paisajes.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 9,
+        "nombre_destino": "Sri Lanka",
+        "tours": [
+            {
+                "id": 901,
+                "destino_id": 9,
+                "titulo": "Triángulo cultural",
+                "precio": 780,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_triángulo_sri_lanka.jpg",
+                "descripcion_corta": "Riqueza arqueológica e historia antigua.",
+                "destacado": true
+            },
+            {
+                "id": 902,
+                "destino_id": 9,
+                "titulo": "Costa sur y elefantes",
+                "precio": 810,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_sri_lanka_sur.jpg",
+                "descripcion_corta": "Playas, naturaleza y fauna local.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 10,
+        "nombre_destino": "Malasia",
+        "tours": [
+            {
+                "id": 1001,
+                "destino_id": 10,
+                "titulo": "Kuala Lumpur moderna",
+                "precio": 700,
+                "duracion": "3 días",
+                "imagen": "assets/images/tour_kuala_lumpur.jpg",
+                "descripcion_corta": "Rascacielos, cultura y gastronomía.",
+                "destacado": true
+            },
+            {
+                "id": 1002,
+                "destino_id": 10,
+                "titulo": "Selvas de Borneo",
+                "precio": 1150,
+                "duracion": "7 días",
+                "imagen": "assets/images/tour_borneo.jpg",
+                "descripcion_corta": "Naturaleza exótica y orangutanes.",
+                "destacado": false
+            },
+            {
+                "id": 1003,
+                "destino_id": 10,
+                "titulo": "Islas Perhentian",
+                "precio": 860,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_perhentian.jpg",
+                "descripcion_corta": "Playas vírgenes y vida marina.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 11,
+        "nombre_destino": "Camboya",
+        "tours": [
+            {
+                "id": 1101,
+                "destino_id": 11,
+                "titulo": "Angkor Wat y Siem Reap",
+                "precio": 790,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_angkorwat.jpg",
+                "descripcion_corta": "Maravíllate con los templos milenarios de Camboya.",
+                "destacado": true
+            },
+            {
+                "id": 1102,
+                "destino_id": 11,
+                "titulo": "Phnom Penh histórico",
+                "precio": 620,
+                "duracion": "3 días",
+                "imagen": "assets/images/tour_phnompenh.jpg",
+                "descripcion_corta": "Descubre la capital y su legado cultural.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 12,
+        "nombre_destino": "Filipinas",
+        "tours": [
+            {
+                "id": 1201,
+                "destino_id": 12,
+                "titulo": "Islas de Palawan",
+                "precio": 990,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_palawan.jpg",
+                "descripcion_corta": "Navega entre lagunas, cuevas y aguas cristalinas.",
+                "destacado": true
+            },
+            {
+                "id": 1202,
+                "destino_id": 12,
+                "titulo": "Manila metropolitana",
+                "precio": 670,
+                "duracion": "3 días",
+                "imagen": "assets/images/tour_manila.jpg",
+                "descripcion_corta": "La mezcla entre historia colonial y modernidad.",
+                "destacado": false
+            },
+            {
+                "id": 1203,
+                "destino_id": 12,
+                "titulo": "Cebú y naturaleza",
+                "precio": 850,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_cebu.jpg",
+                "descripcion_corta": "Playas, cascadas y nado con tiburones ballena.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 13,
+        "nombre_destino": "Mongolia",
+        "tours": [
+            {
+                "id": 1301,
+                "destino_id": 13,
+                "titulo": "Estepas de Mongolia",
+                "precio": 1100,
+                "duracion": "7 días",
+                "imagen": "assets/images/tour_estepas_mongolia.jpg",
+                "descripcion_corta": "Paisajes infinitos y cultura nómada auténtica.",
+                "destacado": true
+            },
+            {
+                "id": 1302,
+                "destino_id": 13,
+                "titulo": "Ulan Bator y alrededores",
+                "precio": 720,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_ulanbator.jpg",
+                "descripcion_corta": "La capital más remota y sus contrastes.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 14,
+        "nombre_destino": "Uzbekistán",
+        "tours": [
+            {
+                "id": 1401,
+                "destino_id": 14,
+                "titulo": "Samarcanda histórica",
+                "precio": 950,
+                "duracion": "5 días",
+                "imagen": "assets/images/tour_samarcanda.jpg",
+                "descripcion_corta": "Joyas arquitectónicas en la Ruta de la Seda.",
+                "destacado": true
+            },
+            {
+                "id": 1402,
+                "destino_id": 14,
+                "titulo": "Bujará y tradición",
+                "precio": 890,
+                "duracion": "4 días",
+                "imagen": "assets/images/tour_bujara.jpg",
+                "descripcion_corta": "Una ciudad detenida en el tiempo.",
+                "destacado": false
+            },
+            {
+                "id": 1403,
+                "destino_id": 14,
+                "titulo": "Desierto de Kyzyl Kum",
+                "precio": 980,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_kyzylkum.jpg",
+                "descripcion_corta": "Aventura entre dunas y yurtas tradicionales.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 15,
+        "nombre_destino": "Kazajistán",
+        "tours": [
+            {
+                "id": 1501,
+                "destino_id": 15,
+                "titulo": "Almaty urbana",
+                "precio": 740,
+                "duracion": "3 días",
+                "imagen": "assets/images/tour_almaty.jpg",
+                "descripcion_corta": "Explora la capital cultural de Kazajistán.",
+                "destacado": true
+            },
+            {
+                "id": 1502,
+                "destino_id": 15,
+                "titulo": "Montañas de Tian Shan",
+                "precio": 1080,
+                "duracion": "6 días",
+                "imagen": "assets/images/tour_tianshan.jpg",
+                "descripcion_corta": "Senderismo y naturaleza en estado puro.",
+                "destacado": false
+            }
+        ]
+    }
+]

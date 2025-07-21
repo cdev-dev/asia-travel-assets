@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "nombre": "Japón",
+        "descripcion": "Viaja por el país del sol naciente, con su mezcla única de tradición y tecnología.",
+        "imagen_destacada": "assets/images/japon.jpg",
+        "tours": [
+            101,
+            102,
+            103
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Tailandia",
+        "descripcion": "Playas paradisíacas, templos dorados y una cultura milenaria que te sorprenderá.",
+        "imagen_destacada": "assets/images/tailandia.jpg",
+        "tours": [
+            201,
+            202
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Vietnam",
+        "descripcion": "Descubre su historia, naturaleza exuberante y deliciosa gastronomía.",
+        "imagen_destacada": "assets/images/vietnam.jpg",
+        "tours": [
+            301,
+            302,
+            303
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "India",
+        "descripcion": "Sumérgete en un mundo de colores, espiritualidad y sabores intensos.",
+        "imagen_destacada": "assets/images/india.jpg",
+        "tours": [
+            401,
+            402,
+            403,
+            404
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "China",
+        "descripcion": "Explora desde la Gran Muralla hasta las metrópolis modernas como Shanghái.",
+        "imagen_destacada": "assets/images/china.jpg",
+        "tours": [
+            501,
+            502
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Corea del Sur",
+        "descripcion": "Innovación, tradición y la creciente ola cultural del K-pop y la gastronomía coreana.",
+        "imagen_destacada": "assets/images/corea_del_sur.jpg",
+        "tours": [
+            601,
+            602,
+            603
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Indonesia",
+        "descripcion": "Un archipiélago tropical lleno de cultura, volcanes y templos sagrados.",
+        "imagen_destacada": "assets/images/indonesia.jpg",
+        "tours": [
+            701,
+            702
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Nepal",
+        "descripcion": "Aventura en el Himalaya, monasterios budistas y paisajes que quitan el aliento.",
+        "imagen_destacada": "assets/images/nepal.jpg",
+        "tours": [
+            801,
+            802,
+            803
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Sri Lanka",
+        "descripcion": "Isla mágica con playas, selvas, elefantes y vestigios antiguos.",
+        "imagen_destacada": "assets/images/sri_lanka.jpg",
+        "tours": [
+            901,
+            902
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Malasia",
+        "descripcion": "Diversidad cultural, modernos rascacielos y naturaleza exótica.",
+        "imagen_destacada": "assets/images/malasia.jpg",
+        "tours": [
+            1001,
+            1002,
+            1003
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Camboya",
+        "descripcion": "Templos majestuosos como Angkor Wat y una rica herencia cultural.",
+        "imagen_destacada": "assets/images/camboya.jpg",
+        "tours": [
+            1101,
+            1102
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Filipinas",
+        "descripcion": "Más de 7,000 islas con playas de ensueño, arrecifes y cultura vibrante.",
+        "imagen_destacada": "assets/images/filipinas.jpg",
+        "tours": [
+            1201,
+            1202,
+            1203
+        ]
+    },
+    {
+        "id": 13,
+        "nombre": "Mongolia",
+        "descripcion": "Tierras vastas, cultura nómada y paisajes vírgenes únicos.",
+        "imagen_destacada": "assets/images/mongolia.jpg",
+        "tours": [
+            1301,
+            1302
+        ]
+    },
+    {
+        "id": 14,
+        "nombre": "Uzbekistán",
+        "descripcion": "Ruta de la Seda, arquitectura islámica y ciudades históricas como Samarcanda.",
+        "imagen_destacada": "assets/images/uzbekistan.jpg",
+        "tours": [
+            1401,
+            1402,
+            1403
+        ]
+    },
+    {
+        "id": 15,
+        "nombre": "Kazajistán",
+        "descripcion": "Montañas, estepas y una fusión moderna de culturas europeas y asiáticas.",
+        "imagen_destacada": "assets/images/kazajistan.jpg",
+        "tours": [
+            1501,
+            1502
+        ]
+    }
+]
