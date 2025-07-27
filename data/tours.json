@@ -292,190 +292,189 @@
         ]
     },
     {
-        {
-            "destino_id": 10,
-            "nombre_destino": "Malasia",
-            "tours": [
-                {
-                    "id": 1001,
-                    "destino_id": 10,
-                    "titulo": "Kuala Lumpur moderna",
-                    "precio": 700,
-                    "duracion": "3 días",
-                    "imagen_destacada": "assets/images/10/1001.jpg",
-                    "descripcion_corta": "Rascacielos, cultura y gastronomía.",
-                    "destacado": true
-                },
-                {
-                    "id": 1002,
-                    "destino_id": 10,
-                    "titulo": "Selvas de Borneo",
-                    "precio": 1150,
-                    "duracion": "7 días",
-                    "imagen_destacada": "assets/images/10/1002.jpg",
-                    "descripcion_corta": "Naturaleza exótica y orangutanes.",
-                    "destacado": false
-                },
-                {
-                    "id": 1003,
-                    "destino_id": 10,
-                    "titulo": "Islas Perhentian",
-                    "precio": 860,
-                    "duracion": "5 días",
-                    "imagen_destacada": "assets/images/10/1003.jpg",
-                    "descripcion_corta": "Playas vírgenes y vida marina.",
-                    "destacado": false
-                }
-            ]
-        },
-        {
-            "destino_id": 11,
-            "nombre_destino": "Camboya",
-            "tours": [
-                {
-                    "id": 1101,
-                    "destino_id": 11,
-                    "titulo": "Angkor Wat y Siem Reap",
-                    "precio": 790,
-                    "duracion": "4 días",
-                    "imagen_destacada": "assets/images/11/1101.jpg",
-                    "descripcion_corta": "Maravíllate con los templos milenarios de Camboya.",
-                    "destacado": true
-                },
-                {
-                    "id": 1102,
-                    "destino_id": 11,
-                    "titulo": "Phnom Penh histórico",
-                    "precio": 620,
-                    "duracion": "3 días",
-                    "imagen_destacada": "assets/images/11/1102.jpg",
-                    "descripcion_corta": "Descubre la capital y su legado cultural.",
-                    "destacado": false
-                }
-            ]
-        },
-        {
-            "destino_id": 12,
-            "nombre_destino": "Filipinas",
-            "tours": [
-                {
-                    "id": 1201,
-                    "destino_id": 12,
-                    "titulo": "Islas de Palawan",
-                    "precio": 990,
-                    "duracion": "6 días",
-                    "imagen_destacada": "assets/images/12/1201.jpg",
-                    "descripcion_corta": "Navega entre lagunas, cuevas y aguas cristalinas.",
-                    "destacado": true
-                },
-                {
-                    "id": 1202,
-                    "destino_id": 12,
-                    "titulo": "Manila metropolitana",
-                    "precio": 670,
-                    "duracion": "3 días",
-                    "imagen_destacada": "assets/images/12/1202.jpg",
-                    "descripcion_corta": "La mezcla entre historia colonial y modernidad.",
-                    "destacado": false
-                },
-                {
-                    "id": 1203,
-                    "destino_id": 12,
-                    "titulo": "Cebú y naturaleza",
-                    "precio": 850,
-                    "duracion": "5 días",
-                    "imagen_destacada": "assets/images/12/1203.jpg",
-                    "descripcion_corta": "Playas, cascadas y nado con tiburones ballena.",
-                    "destacado": false
-                }
-            ]
-        },
-        {
-            "destino_id": 13,
-            "nombre_destino": "Mongolia",
-            "tours": [
-                {
-                    "id": 1301,
-                    "destino_id": 13,
-                    "titulo": "Estepas de Mongolia",
-                    "precio": 1100,
-                    "duracion": "7 días",
-                    "imagen_destacada": "assets/images/13/1301.jpg",
-                    "descripcion_corta": "Paisajes infinitos y cultura nómada auténtica.",
-                    "destacado": true
-                },
-                {
-                    "id": 1302,
-                    "destino_id": 13,
-                    "titulo": "Ulan Bator y alrededores",
-                    "precio": 720,
-                    "duracion": "4 días",
-                    "imagen_destacada": "assets/images/13/1302.jpg",
-                    "descripcion_corta": "La capital más remota y sus contrastes.",
-                    "destacado": false
-                }
-            ]
-        },
-        {
-            "destino_id": 14,
-            "nombre_destino": "Uzbekistán",
-            "tours": [
-                {
-                    "id": 1401,
-                    "destino_id": 14,
-                    "titulo": "Samarcanda histórica",
-                    "precio": 950,
-                    "duracion": "5 días",
-                    "imagen_destacada": "assets/images/14/1401.jpg",
-                    "descripcion_corta": "Joyas arquitectónicas en la Ruta de la Seda.",
-                    "destacado": true
-                },
-                {
-                    "id": 1402,
-                    "destino_id": 14,
-                    "titulo": "Bujará y tradición",
-                    "precio": 890,
-                    "duracion": "4 días",
-                    "imagen_destacada": "assets/images/14/1402.jpg",
-                    "descripcion_corta": "Una ciudad detenida en el tiempo.",
-                    "destacado": false
-                },
-                {
-                    "id": 1403,
-                    "destino_id": 14,
-                    "titulo": "Desierto de Kyzyl Kum",
-                    "precio": 980,
-                    "duracion": "6 días",
-                    "imagen_destacada": "assets/images/14/1403.jpg",
-                    "descripcion_corta": "Aventura entre dunas y yurtas tradicionales.",
-                    "destacado": false
-                }
-            ]
-        },
-        {
-            "destino_id": 15,
-            "nombre_destino": "Kazajistán",
-            "tours": [
-                {
-                    "id": 1501,
-                    "destino_id": 15,
-                    "titulo": "Almaty urbana",
-                    "precio": 740,
-                    "duracion": "3 días",
-                    "imagen_destacada": "assets/images/15/1501.jpg",
-                    "descripcion_corta": "Explora la capital cultural de Kazajistán.",
-                    "destacado": true
-                },
-                {
-                    "id": 1502,
-                    "destino_id": 15,
-                    "titulo": "Montañas de Tian Shan",
-                    "precio": 1080,
-                    "duracion": "6 días",
-                    "imagen_destacada": "assets/images/15/1502.jpg",
-                    "descripcion_corta": "Senderismo y naturaleza en estado puro.",
-                    "destacado": false
-                }
-            ]
-        }
-    ]
+        "destino_id": 10,
+        "nombre_destino": "Malasia",
+        "tours": [
+            {
+                "id": 1001,
+                "destino_id": 10,
+                "titulo": "Kuala Lumpur moderna",
+                "precio": 700,
+                "duracion": "3 días",
+                "imagen_destacada": "assets/images/10/1001.jpg",
+                "descripcion_corta": "Rascacielos, cultura y gastronomía.",
+                "destacado": true
+            },
+            {
+                "id": 1002,
+                "destino_id": 10,
+                "titulo": "Selvas de Borneo",
+                "precio": 1150,
+                "duracion": "7 días",
+                "imagen_destacada": "assets/images/10/1002.jpg",
+                "descripcion_corta": "Naturaleza exótica y orangutanes.",
+                "destacado": false
+            },
+            {
+                "id": 1003,
+                "destino_id": 10,
+                "titulo": "Islas Perhentian",
+                "precio": 860,
+                "duracion": "5 días",
+                "imagen_destacada": "assets/images/10/1003.jpg",
+                "descripcion_corta": "Playas vírgenes y vida marina.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 11,
+        "nombre_destino": "Camboya",
+        "tours": [
+            {
+                "id": 1101,
+                "destino_id": 11,
+                "titulo": "Angkor Wat y Siem Reap",
+                "precio": 790,
+                "duracion": "4 días",
+                "imagen_destacada": "assets/images/11/1101.jpg",
+                "descripcion_corta": "Maravíllate con los templos milenarios de Camboya.",
+                "destacado": true
+            },
+            {
+                "id": 1102,
+                "destino_id": 11,
+                "titulo": "Phnom Penh histórico",
+                "precio": 620,
+                "duracion": "3 días",
+                "imagen_destacada": "assets/images/11/1102.jpg",
+                "descripcion_corta": "Descubre la capital y su legado cultural.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 12,
+        "nombre_destino": "Filipinas",
+        "tours": [
+            {
+                "id": 1201,
+                "destino_id": 12,
+                "titulo": "Islas de Palawan",
+                "precio": 990,
+                "duracion": "6 días",
+                "imagen_destacada": "assets/images/12/1201.jpg",
+                "descripcion_corta": "Navega entre lagunas, cuevas y aguas cristalinas.",
+                "destacado": true
+            },
+            {
+                "id": 1202,
+                "destino_id": 12,
+                "titulo": "Manila metropolitana",
+                "precio": 670,
+                "duracion": "3 días",
+                "imagen_destacada": "assets/images/12/1202.jpg",
+                "descripcion_corta": "La mezcla entre historia colonial y modernidad.",
+                "destacado": false
+            },
+            {
+                "id": 1203,
+                "destino_id": 12,
+                "titulo": "Cebú y naturaleza",
+                "precio": 850,
+                "duracion": "5 días",
+                "imagen_destacada": "assets/images/12/1203.jpg",
+                "descripcion_corta": "Playas, cascadas y nado con tiburones ballena.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 13,
+        "nombre_destino": "Mongolia",
+        "tours": [
+            {
+                "id": 1301,
+                "destino_id": 13,
+                "titulo": "Estepas de Mongolia",
+                "precio": 1100,
+                "duracion": "7 días",
+                "imagen_destacada": "assets/images/13/1301.jpg",
+                "descripcion_corta": "Paisajes infinitos y cultura nómada auténtica.",
+                "destacado": true
+            },
+            {
+                "id": 1302,
+                "destino_id": 13,
+                "titulo": "Ulan Bator y alrededores",
+                "precio": 720,
+                "duracion": "4 días",
+                "imagen_destacada": "assets/images/13/1302.jpg",
+                "descripcion_corta": "La capital más remota y sus contrastes.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 14,
+        "nombre_destino": "Uzbekistán",
+        "tours": [
+            {
+                "id": 1401,
+                "destino_id": 14,
+                "titulo": "Samarcanda histórica",
+                "precio": 950,
+                "duracion": "5 días",
+                "imagen_destacada": "assets/images/14/1401.jpg",
+                "descripcion_corta": "Joyas arquitectónicas en la Ruta de la Seda.",
+                "destacado": true
+            },
+            {
+                "id": 1402,
+                "destino_id": 14,
+                "titulo": "Bujará y tradición",
+                "precio": 890,
+                "duracion": "4 días",
+                "imagen_destacada": "assets/images/14/1402.jpg",
+                "descripcion_corta": "Una ciudad detenida en el tiempo.",
+                "destacado": false
+            },
+            {
+                "id": 1403,
+                "destino_id": 14,
+                "titulo": "Desierto de Kyzyl Kum",
+                "precio": 980,
+                "duracion": "6 días",
+                "imagen_destacada": "assets/images/14/1403.jpg",
+                "descripcion_corta": "Aventura entre dunas y yurtas tradicionales.",
+                "destacado": false
+            }
+        ]
+    },
+    {
+        "destino_id": 15,
+        "nombre_destino": "Kazajistán",
+        "tours": [
+            {
+                "id": 1501,
+                "destino_id": 15,
+                "titulo": "Almaty urbana",
+                "precio": 740,
+                "duracion": "3 días",
+                "imagen_destacada": "assets/images/15/1501.jpg",
+                "descripcion_corta": "Explora la capital cultural de Kazajistán.",
+                "destacado": true
+            },
+            {
+                "id": 1502,
+                "destino_id": 15,
+                "titulo": "Montañas de Tian Shan",
+                "precio": 1080,
+                "duracion": "6 días",
+                "imagen_destacada": "assets/images/15/1502.jpg",
+                "descripcion_corta": "Senderismo y naturaleza en estado puro.",
+                "destacado": false
+            }
+        ]
+    }
+]
