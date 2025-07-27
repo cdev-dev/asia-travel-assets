@@ -2,8 +2,14 @@
     {
         "id": 1,
         "nombre": "Japón",
-        "descripcion": "Viaja por el país del sol naciente, con su mezcla única de tradición y tecnología.",
+        "descripcion_corta": "Viaja por el país del sol naciente, con su mezcla única de tradición y tecnología.",
+        "descripcion_larga": "Japón es un país donde la tradición milenaria y la tecnología del futuro conviven en perfecta armonía. Desde templos ancestrales en Kioto hasta la modernidad abrumadora de Tokio, cada rincón ofrece una experiencia única. Su cultura, su gastronomía y su naturaleza sorprenden en cada estación del año.",
         "imagen_destacada": "assets/images/japon.jpg",
+        "imagenes": [
+            "assets/images/japon_1.jpg",
+            "assets/images/japon_2.jpg",
+            "assets/images/japon_3.jpg"
+        ],
         "precio": 3200,
         "dias": 14,
         "tours": [
@@ -15,8 +21,14 @@
     {
         "id": 2,
         "nombre": "Tailandia",
-        "descripcion": "Playas paradisíacas, templos dorados y una cultura milenaria que te sorprenderá.",
+        "descripcion_corta": "Playas paradisíacas, templos dorados y una cultura milenaria que te sorprenderá.",
+        "descripcion_larga": "Tailandia es un paraíso del sudeste asiático que combina playas de ensueño, templos budistas y una vibrante vida urbana. Sus paisajes tropicales y su hospitalidad la convierten en un destino inolvidable para quienes buscan aventura, relax o descubrimiento cultural.",
         "imagen_destacada": "assets/images/tailandia.jpg",
+        "imagenes": [
+            "assets/images/tailandia_1.jpg",
+            "assets/images/tailandia_2.jpg",
+            "assets/images/tailandia_3.jpg"
+        ],
         "precio": 2100,
         "dias": 10,
         "tours": [
@@ -27,8 +39,14 @@
     {
         "id": 3,
         "nombre": "Vietnam",
-        "descripcion": "Descubre su historia, naturaleza exuberante y deliciosa gastronomía.",
+        "descripcion_corta": "Descubre su historia, naturaleza exuberante y deliciosa gastronomía.",
+        "descripcion_larga": "Vietnam es una tierra de contrastes, con ciudades llenas de energía como Hanói y Saigón, y paisajes serenos como la bahía de Ha Long. Su historia marcada por la resistencia, su rica cultura y su gastronomía callejera son motivos más que suficientes para explorarlo de norte a sur.",
         "imagen_destacada": "assets/images/vietnam.jpg",
+        "imagenes": [
+            "assets/images/vietnam_1.jpg",
+            "assets/images/vietnam_2.jpg",
+            "assets/images/vietnam_3.jpg"
+        ],
         "precio": 2300,
         "dias": 12,
         "tours": [
@@ -40,8 +58,14 @@
     {
         "id": 4,
         "nombre": "India",
-        "descripcion": "Sumérgete en un mundo de colores, espiritualidad y sabores intensos.",
+        "descripcion_corta": "Sumérgete en un mundo de colores, espiritualidad y sabores intensos.",
+        "descripcion_larga": "India es un universo de colores, aromas y espiritualidad. Desde el Taj Mahal hasta los Himalayas, cada estado ofrece algo único. La diversidad cultural, religiosa y geográfica del país lo convierte en una experiencia transformadora para cualquier viajero.",
         "imagen_destacada": "assets/images/india.jpg",
+        "imagenes": [
+            "assets/images/india_1.jpg",
+            "assets/images/india_2.jpg",
+            "assets/images/india_3.jpg"
+        ],
         "precio": 2400,
         "dias": 13,
         "tours": [
@@ -54,8 +78,14 @@
     {
         "id": 5,
         "nombre": "China",
-        "descripcion": "Explora desde la Gran Muralla hasta las metrópolis modernas como Shanghái.",
+        "descripcion_corta": "Explora desde la Gran Muralla hasta las metrópolis modernas como Shanghái.",
+        "descripcion_larga": "China es una de las civilizaciones más antiguas del mundo, con una historia fascinante que se mezcla con su meteórico avance tecnológico. Desde la Gran Muralla hasta los rascacielos de Shanghái, es un país que nunca deja de impresionar.",
         "imagen_destacada": "assets/images/china.jpg",
+        "imagenes": [
+            "assets/images/china_1.jpg",
+            "assets/images/china_2.jpg",
+            "assets/images/china_3.jpg"
+        ],
         "precio": 3100,
         "dias": 14,
         "tours": [
@@ -66,8 +96,14 @@
     {
         "id": 6,
         "nombre": "Corea del Sur",
-        "descripcion": "Innovación, tradición y la creciente ola cultural del K-pop y la gastronomía coreana.",
+        "descripcion_corta": "Innovación, tradición y la creciente ola cultural del K-pop y la gastronomía coreana.",
+        "descripcion_larga": "Corea del Sur es una tierra donde la tradición se fusiona con la innovación. Seúl es un ejemplo vibrante de esta dualidad, mientras que lugares como la isla de Jeju y los templos históricos ofrecen paz y belleza natural. La ola Hallyu ha llevado su cultura pop a todos los rincones del mundo.",
         "imagen_destacada": "assets/images/corea_del_sur.jpg",
+        "imagenes": [
+            "assets/images/corea_1.jpg",
+            "assets/images/corea_2.jpg",
+            "assets/images/corea_3.jpg"
+        ],
         "precio": 2800,
         "dias": 11,
         "tours": [
@@ -79,8 +115,14 @@
     {
         "id": 7,
         "nombre": "Indonesia",
-        "descripcion": "Un archipiélago tropical lleno de cultura, volcanes y templos sagrados.",
+        "descripcion_corta": "Un archipiélago tropical lleno de cultura, volcanes y templos sagrados.",
+        "descripcion_larga": "Indonesia, con sus miles de islas, es un mosaico de culturas, paisajes volcánicos y playas paradisíacas. Bali, Java y otras regiones destacan por su espiritualidad, naturaleza exuberante y tradiciones vivas que encantan al visitante.",
         "imagen_destacada": "assets/images/indonesia.jpg",
+        "imagenes": [
+            "assets/images/indonesia_1.jpg",
+            "assets/images/indonesia_2.jpg",
+            "assets/images/indonesia_3.jpg"
+        ],
         "precio": 2600,
         "dias": 12,
         "tours": [
@@ -91,8 +133,14 @@
     {
         "id": 8,
         "nombre": "Nepal",
-        "descripcion": "Aventura en el Himalaya, monasterios budistas y paisajes que quitan el aliento.",
+        "descripcion_corta": "Aventura en el Himalaya, monasterios budistas y paisajes que quitan el aliento.",
+        "descripcion_larga": "Nepal es el corazón espiritual del Himalaya. Con montañas imponentes, monasterios budistas y una cultura profundamente religiosa, es el lugar ideal para quienes buscan conexión con la naturaleza y consigo mismos.",
         "imagen_destacada": "assets/images/nepal.jpg",
+        "imagenes": [
+            "assets/images/nepal_1.jpg",
+            "assets/images/nepal_2.jpg",
+            "assets/images/nepal_3.jpg"
+        ],
         "precio": 2200,
         "dias": 10,
         "tours": [
@@ -104,8 +152,14 @@
     {
         "id": 9,
         "nombre": "Sri Lanka",
-        "descripcion": "Isla mágica con playas, selvas, elefantes y vestigios antiguos.",
+        "descripcion_corta": "Isla mágica con playas, selvas, elefantes y vestigios antiguos.",
+        "descripcion_larga": "Sri Lanka es una isla repleta de maravillas naturales, sitios arqueológicos y playas vírgenes. Su mezcla de culturas, religiones y paisajes tropicales ofrece una experiencia rica y diversa para todo tipo de viajero.",
         "imagen_destacada": "assets/images/sri_lanka.jpg",
+        "imagenes": [
+            "assets/images/sri_lanka_1.jpg",
+            "assets/images/sri_lanka_2.jpg",
+            "assets/images/sri_lanka_3.jpg"
+        ],
         "precio": 2000,
         "dias": 9,
         "tours": [
@@ -116,8 +170,14 @@
     {
         "id": 10,
         "nombre": "Malasia",
-        "descripcion": "Diversidad cultural, modernos rascacielos y naturaleza exótica.",
+        "descripcion_corta": "Diversidad cultural, modernos rascacielos y naturaleza exótica.",
+        "descripcion_larga": "Malasia sorprende con su modernidad y su biodiversidad. Desde las torres Petronas de Kuala Lumpur hasta las selvas de Borneo, ofrece una experiencia multicultural con influencias malayas, chinas e indias.",
         "imagen_destacada": "assets/images/malasia.jpg",
+        "imagenes": [
+            "assets/images/malasia_1.jpg",
+            "assets/images/malasia_2.jpg",
+            "assets/images/malasia_3.jpg"
+        ],
         "precio": 2300,
         "dias": 11,
         "tours": [
@@ -129,8 +189,14 @@
     {
         "id": 11,
         "nombre": "Camboya",
-        "descripcion": "Templos majestuosos como Angkor Wat y una rica herencia cultural.",
+        "descripcion_corta": "Templos majestuosos como Angkor Wat y una rica herencia cultural.",
+        "descripcion_larga": "Camboya es un país resiliente con un legado histórico impresionante. El complejo de Angkor Wat es su joya más conocida, pero su gente amable, paisajes rurales y cultura viva ofrecen mucho más que templos.",
         "imagen_destacada": "assets/images/camboya.jpg",
+        "imagenes": [
+            "assets/images/camboya_1.jpg",
+            "assets/images/camboya_2.jpg",
+            "assets/images/camboya_3.jpg"
+        ],
         "precio": 1900,
         "dias": 8,
         "tours": [
@@ -141,8 +207,14 @@
     {
         "id": 12,
         "nombre": "Filipinas",
-        "descripcion": "Más de 7,000 islas con playas de ensueño, arrecifes y cultura vibrante.",
+        "descripcion_corta": "Más de 7,000 islas con playas de ensueño, arrecifes y cultura vibrante.",
+        "descripcion_larga": "Filipinas es un archipiélago tropical que deslumbra con su biodiversidad marina, playas paradisíacas y mezcla cultural única. Ideal para aventureros, buceadores y quienes buscan desconectar rodeados de naturaleza.",
         "imagen_destacada": "assets/images/filipinas.jpg",
+        "imagenes": [
+            "assets/images/filipinas_1.jpg",
+            "assets/images/filipinas_2.jpg",
+            "assets/images/filipinas_3.jpg"
+        ],
         "precio": 2500,
         "dias": 12,
         "tours": [
@@ -154,8 +226,14 @@
     {
         "id": 13,
         "nombre": "Mongolia",
-        "descripcion": "Tierras vastas, cultura nómada y paisajes vírgenes únicos.",
+        "descripcion_corta": "Tierras vastas, cultura nómada y paisajes vírgenes únicos.",
+        "descripcion_larga": "Mongolia es sinónimo de libertad y vastedad. Sus estepas infinitas, cultura nómada y tradiciones ancestrales hacen de este país un destino único para quienes buscan experiencias auténticas y paisajes grandiosos.",
         "imagen_destacada": "assets/images/mongolia.jpg",
+        "imagenes": [
+            "assets/images/mongolia_1.jpg",
+            "assets/images/mongolia_2.jpg",
+            "assets/images/mongolia_3.jpg"
+        ],
         "precio": 2100,
         "dias": 9,
         "tours": [
@@ -166,8 +244,14 @@
     {
         "id": 14,
         "nombre": "Uzbekistán",
-        "descripcion": "Ruta de la Seda, arquitectura islámica y ciudades históricas como Samarcanda.",
+        "descripcion_corta": "Ruta de la Seda, arquitectura islámica y ciudades históricas como Samarcanda.",
+        "descripcion_larga": "Uzbekistán es una joya de Asia Central con ciudades míticas de la Ruta de la Seda como Samarcanda y Bujará. Su arquitectura islámica, mercados coloridos y hospitalidad lo convierten en un viaje al pasado.",
         "imagen_destacada": "assets/images/uzbekistan.jpg",
+        "imagenes": [
+            "assets/images/uzbekistan_1.jpg",
+            "assets/images/uzbekistan_2.jpg",
+            "assets/images/uzbekistan_3.jpg"
+        ],
         "precio": 2000,
         "dias": 10,
         "tours": [
@@ -179,8 +263,14 @@
     {
         "id": 15,
         "nombre": "Kazajistán",
-        "descripcion": "Montañas, estepas y una fusión moderna de culturas europeas y asiáticas.",
+        "descripcion_corta": "Montañas, estepas y una fusión moderna de culturas europeas y asiáticas.",
+        "descripcion_larga": "Kazajistán ofrece una fusión entre modernidad y naturaleza. Desde ciudades cosmopolitas como Almaty hasta las majestuosas montañas de Tian Shan, el país invita a explorar lo desconocido en el corazón de Eurasia.",
         "imagen_destacada": "assets/images/kazajistan.jpg",
+        "imagenes": [
+            "assets/images/kazajistan_1.jpg",
+            "assets/images/kazajistan_2.jpg",
+            "assets/images/kazajistan_3.jpg"
+        ],
         "precio": 1950,
         "dias": 9,
         "tours": [
