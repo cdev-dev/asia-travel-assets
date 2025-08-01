@@ -18,27 +18,27 @@
         {
             "id_servicio": 1,
             "descripcion": "Diversas experiencias asiáticas, en función de tus gustos",
-            "imagen": "assets/icons/servicios/1.png"
+            "imagen": "icons/servicios/1.png"
         },
         {
             "id_servicio": 2,
             "descripcion": "Atención al cliente",
-            "imagen": "assets/icons/servicios/2.png"
+            "imagen": "icons/servicios/2.png"
         },
         {
             "id_servicio": 3,
             "descripcion": "Preguntas frecuentes",
-            "imagen": "assets/icons/servicios/3.png"
+            "imagen": "icons/servicios/3.png"
         },
         {
             "id_servicio": 4,
             "descripcion": "Guías locales en español",
-            "imagen": "assets/icons/servicios/4.png"
+            "imagen": "icons/servicios/4.png"
         },
         {
             "id_servicio": 5,
             "descripcion": "Seguro médico y repatriación",
-            "imagen": "assets/icons/servicios/5.png"
+            "imagen": "icons/servicios/5.png"
         }
     ]
 }
