@@ -10,7 +10,7 @@
             "assets/images/destinos/destacadas/japon_2.jpg",
             "assets/images/destinos/destacadas/japon_3.jpg"
         ],
-        "precio": 3200,
+        "precio": 890,
         "dias": 14,
         "tours": [
             101,
@@ -29,7 +29,7 @@
             "assets/images/destinos/destacadas/tailandia_2.jpg",
             "assets/images/destinos/destacadas/tailandia_3.jpg"
         ],
-        "precio": 2100,
+        "precio": 680,
         "dias": 10,
         "tours": [
             201,
@@ -47,7 +47,7 @@
             "assets/images/destinos/destacadas/vietnam_2.jpg",
             "assets/images/destinos/destacadas/vietnam_3.jpg"
         ],
-        "precio": 2300,
+        "precio": 790,
         "dias": 12,
         "tours": [
             301,
@@ -66,7 +66,7 @@
             "assets/images/destinos/destacadas/india_2.jpg",
             "assets/images/destinos/destacadas/india_3.jpg"
         ],
-        "precio": 2400,
+        "precio": 820,
         "dias": 13,
         "tours": [
             401,
@@ -86,7 +86,7 @@
             "assets/images/destinos/destacadas/china_2.jpg",
             "assets/images/destinos/destacadas/china_3.jpg"
         ],
-        "precio": 3100,
+        "precio": 870,
         "dias": 14,
         "tours": [
             501,
@@ -104,7 +104,7 @@
             "assets/images/destinos/destacadas/corea_2.jpg",
             "assets/images/destinos/destacadas/corea_3.jpg"
         ],
-        "precio": 2800,
+        "precio": 860,
         "dias": 11,
         "tours": [
             601,
@@ -123,7 +123,7 @@
             "assets/images/destinos/destacadas/indonesia_2.jpg",
             "assets/images/destinos/destacadas/indonesia_3.jpg"
         ],
-        "precio": 2600,
+        "precio": 880,
         "dias": 12,
         "tours": [
             701,
@@ -141,7 +141,7 @@
             "assets/images/destinos/destacadas/nepal_2.jpg",
             "assets/images/destinos/destacadas/nepal_3.jpg"
         ],
-        "precio": 2200,
+        "precio": 690,
         "dias": 10,
         "tours": [
             801,
@@ -160,7 +160,7 @@
             "assets/images/destinos/destacadas/sri_lanka_2.jpg",
             "assets/images/destinos/destacadas/sri_lanka_3.jpg"
         ],
-        "precio": 2000,
+        "precio": 780,
         "dias": 9,
         "tours": [
             901,
@@ -178,7 +178,7 @@
             "assets/images/destinos/destacadas/malasia_2.jpg",
             "assets/images/destinos/destacadas/malasia_3.jpg"
         ],
-        "precio": 2300,
+        "precio": 700,
         "dias": 11,
         "tours": [
             1001,
@@ -197,7 +197,7 @@
             "assets/images/destinos/destacadas/camboya_2.jpg",
             "assets/images/destinos/destacadas/camboya_3.jpg"
         ],
-        "precio": 1900,
+        "precio": 620,
         "dias": 8,
         "tours": [
             1101,
@@ -215,7 +215,7 @@
             "assets/images/destinos/destacadas/filipinas_2.jpg",
             "assets/images/destinos/destacadas/filipinas_3.jpg"
         ],
-        "precio": 2500,
+        "precio": 670,
         "dias": 12,
         "tours": [
             1201,
@@ -234,7 +234,7 @@
             "assets/images/destinos/destacadas/mongolia_2.jpg",
             "assets/images/destinos/destacadas/mongolia_3.jpg"
         ],
-        "precio": 2100,
+        "precio": 720,
         "dias": 9,
         "tours": [
             1301,
@@ -252,7 +252,7 @@
             "assets/images/destinos/destacadas/uzbekistan_2.jpg",
             "assets/images/destinos/destacadas/uzbekistan_3.jpg"
         ],
-        "precio": 2000,
+        "precio": 890,
         "dias": 10,
         "tours": [
             1401,
@@ -271,7 +271,7 @@
             "assets/images/destinos/destacadas/kazajistan_2.jpg",
             "assets/images/destinos/destacadas/kazajistan_3.jpg"
         ],
-        "precio": 1950,
+        "precio": 740,
         "dias": 9,
         "tours": [
             1501,

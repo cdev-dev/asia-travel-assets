@@ -16,7 +16,7 @@
                 "id": 102,
                 "titulo": "Aventura en Hokkaido",
                 "precio": 1150,
-                "duracion": "5 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/1/102.jpg",
                 "descripcion_corta": "Naturaleza y nieve en el norte de Japón.",
                 "destacado": false
@@ -26,7 +26,7 @@
                 "destino_id": 1,
                 "titulo": "Templos de Nara y Osaka",
                 "precio": 890,
-                "duracion": "3 días",
+                "duracion": "4 días",
                 "imagen_destacada": "assets/images/1/103.jpg",
                 "descripcion_corta": "Descubre la historia antigua de Japón.",
                 "destacado": false
@@ -42,7 +42,7 @@
                 "destino_id": 2,
                 "titulo": "Playas de Phuket",
                 "precio": 750,
-                "duracion": "5 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/2/201.jpg",
                 "descripcion_corta": "Relájate en las mejores playas tailandesas.",
                 "destacado": true
@@ -52,7 +52,7 @@
                 "destino_id": 2,
                 "titulo": "Bangkok cultural",
                 "precio": 680,
-                "duracion": "4 días",
+                "duracion": "5 días",
                 "imagen_destacada": "assets/images/2/202.jpg",
                 "descripcion_corta": "Visita templos y mercados tradicionales.",
                 "destacado": false
@@ -160,7 +160,7 @@
                 "destino_id": 5,
                 "titulo": "Shanghai moderno",
                 "precio": 870,
-                "duracion": "4 días",
+                "duracion": "5 días",
                 "imagen_destacada": "assets/images/5/502.jpg",
                 "descripcion_corta": "Fusión de lo antiguo y lo futurista.",
                 "destacado": false
@@ -176,7 +176,7 @@
                 "destino_id": 6,
                 "titulo": "Seúl cultural",
                 "precio": 860,
-                "duracion": "4 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/601.jpg",
                 "descripcion_corta": "Palacios, mercados y gastronomía coreana.",
                 "destacado": true
@@ -186,7 +186,7 @@
                 "destino_id": 6,
                 "titulo": "Jeju y naturaleza",
                 "precio": 910,
-                "duracion": "5 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/602.jpg",
                 "descripcion_corta": "La isla volcánica más famosa de Corea.",
                 "destacado": false
@@ -196,7 +196,7 @@
                 "destino_id": 6,
                 "titulo": "Ruta K-pop y moda",
                 "precio": 980,
-                "duracion": "4 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/603.jpg",
                 "descripcion_corta": "Un recorrido por la cultura pop coreana.",
                 "destacado": false
@@ -238,7 +238,7 @@
                 "destino_id": 8,
                 "titulo": "Katmandú y sus valles",
                 "precio": 690,
-                "duracion": "4 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/8/801.jpg",
                 "descripcion_corta": "Cultura y arquitectura en la capital de Nepal.",
                 "destacado": true
@@ -274,7 +274,7 @@
                 "destino_id": 9,
                 "titulo": "Triángulo cultural",
                 "precio": 780,
-                "duracion": "5 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/9/901.jpg",
                 "descripcion_corta": "Riqueza arqueológica e historia antigua.",
                 "destacado": true
@@ -300,7 +300,7 @@
                 "destino_id": 10,
                 "titulo": "Kuala Lumpur moderna",
                 "precio": 700,
-                "duracion": "3 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/10/1001.jpg",
                 "descripcion_corta": "Rascacielos, cultura y gastronomía.",
                 "destacado": true
@@ -310,7 +310,7 @@
                 "destino_id": 10,
                 "titulo": "Selvas de Borneo",
                 "precio": 1150,
-                "duracion": "7 días",
+                "duracion": "8 días",
                 "imagen_destacada": "assets/images/10/1002.jpg",
                 "descripcion_corta": "Naturaleza exótica y orangutanes.",
                 "destacado": false
@@ -336,7 +336,7 @@
                 "destino_id": 11,
                 "titulo": "Angkor Wat y Siem Reap",
                 "precio": 790,
-                "duracion": "4 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/11/1101.jpg",
                 "descripcion_corta": "Maravíllate con los templos milenarios de Camboya.",
                 "destacado": true
@@ -346,7 +346,7 @@
                 "destino_id": 11,
                 "titulo": "Phnom Penh histórico",
                 "precio": 620,
-                "duracion": "3 días",
+                "duracion": "7 días",
                 "imagen_destacada": "assets/images/11/1102.jpg",
                 "descripcion_corta": "Descubre la capital y su legado cultural.",
                 "destacado": false
@@ -362,7 +362,7 @@
                 "destino_id": 12,
                 "titulo": "Islas de Palawan",
                 "precio": 990,
-                "duracion": "6 días",
+                "duracion": "8 días",
                 "imagen_destacada": "assets/images/12/1201.jpg",
                 "descripcion_corta": "Navega entre lagunas, cuevas y aguas cristalinas.",
                 "destacado": true
@@ -372,7 +372,7 @@
                 "destino_id": 12,
                 "titulo": "Manila metropolitana",
                 "precio": 670,
-                "duracion": "3 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/12/1202.jpg",
                 "descripcion_corta": "La mezcla entre historia colonial y modernidad.",
                 "destacado": false
@@ -382,7 +382,7 @@
                 "destino_id": 12,
                 "titulo": "Cebú y naturaleza",
                 "precio": 850,
-                "duracion": "5 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/12/1203.jpg",
                 "descripcion_corta": "Playas, cascadas y nado con tiburones ballena.",
                 "destacado": false
@@ -398,7 +398,7 @@
                 "destino_id": 13,
                 "titulo": "Estepas de Mongolia",
                 "precio": 1100,
-                "duracion": "7 días",
+                "duracion": "8 días",
                 "imagen_destacada": "assets/images/13/1301.jpg",
                 "descripcion_corta": "Paisajes infinitos y cultura nómada auténtica.",
                 "destacado": true
@@ -408,7 +408,7 @@
                 "destino_id": 13,
                 "titulo": "Ulan Bator y alrededores",
                 "precio": 720,
-                "duracion": "4 días",
+                "duracion": "7 días",
                 "imagen_destacada": "assets/images/13/1302.jpg",
                 "descripcion_corta": "La capital más remota y sus contrastes.",
                 "destacado": false
@@ -424,7 +424,7 @@
                 "destino_id": 14,
                 "titulo": "Samarcanda histórica",
                 "precio": 950,
-                "duracion": "5 días",
+                "duracion": "8 días",
                 "imagen_destacada": "assets/images/14/1401.jpg",
                 "descripcion_corta": "Joyas arquitectónicas en la Ruta de la Seda.",
                 "destacado": true
@@ -434,7 +434,7 @@
                 "destino_id": 14,
                 "titulo": "Bujará y tradición",
                 "precio": 890,
-                "duracion": "4 días",
+                "duracion": "7 días",
                 "imagen_destacada": "assets/images/14/1402.jpg",
                 "descripcion_corta": "Una ciudad detenida en el tiempo.",
                 "destacado": false
@@ -444,7 +444,7 @@
                 "destino_id": 14,
                 "titulo": "Desierto de Kyzyl Kum",
                 "precio": 980,
-                "duracion": "6 días",
+                "duracion": "8 días",
                 "imagen_destacada": "assets/images/14/1403.jpg",
                 "descripcion_corta": "Aventura entre dunas y yurtas tradicionales.",
                 "destacado": false
@@ -460,7 +460,7 @@
                 "destino_id": 15,
                 "titulo": "Almaty urbana",
                 "precio": 740,
-                "duracion": "3 días",
+                "duracion": "6 días",
                 "imagen_destacada": "assets/images/15/1501.jpg",
                 "descripcion_corta": "Explora la capital cultural de Kazajistán.",
                 "destacado": true
