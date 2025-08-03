@@ -10,7 +10,44 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/1/101.jpg",
                 "descripcion_corta": "Circuito clásico por las ciudades más emblemáticas.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Tokio",
+                        "descripcion": "Recepción en el aeropuerto, traslado al hotel y tarde libre para explorar Shinjuku por tu cuenta."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Lo mejor de Tokio",
+                        "descripcion": "Visita guiada a los barrios de Asakusa y Akihabara, con paseo en barco por el río Sumida."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Excursión al Monte Fuji",
+                        "descripcion": "Viaje al Monte Fuji, con parada en la quinta estación y visita al lago Ashi en Hakone."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Tren bala a Kioto",
+                        "descripcion": "Traslado en shinkansen a Kioto. Por la tarde, recorrido libre por Gion, el tradicional barrio de las geishas."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Templos y naturaleza",
+                        "descripcion": "Visita guiada al templo dorado Kinkaku-ji, al jardín zen de Ryoan-ji y al bosque de bambú de Arashiyama."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Día libre u opción Nara",
+                        "descripcion": "Día libre en Kioto para explorar a tu ritmo o tomar una excursión opcional a los templos de Nara."
+                    },
+                    {
+                        "dia": 7,
+                        "titulo": "Regreso a casa",
+                        "descripcion": "Desayuno, traslado al aeropuerto y vuelo de regreso a tu ciudad de origen."
+                    }
+                ]
             },
             {
                 "id": 102,
@@ -19,7 +56,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/1/102.jpg",
                 "descripcion_corta": "Naturaleza y nieve en el norte de Japón.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Sapporo",
+                        "descripcion": "Recepción en el aeropuerto de New Chitose y traslado al hotel. Paseo nocturno opcional por la ciudad."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Descubriendo Sapporo",
+                        "descripcion": "Tour por la Torre del Reloj, el mercado Nijo y el Parque Odori. Cena tradicional incluida."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Termas de Noboribetsu",
+                        "descripcion": "Excursión a las famosas aguas termales de Noboribetsu. Tiempo para relajarse en un onsen."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Estación de esquí de Furano",
+                        "descripcion": "Viaje a Furano para disfrutar de deportes de invierno o paseos en trineo entre paisajes nevados."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Lagos y naturaleza",
+                        "descripcion": "Visita al lago Shikotsu y paseo por senderos naturales con vistas a volcanes nevados."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Despedida de Hokkaido",
+                        "descripcion": "Desayuno, mañana libre para compras y traslado al aeropuerto para vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 103,
@@ -29,7 +98,29 @@
                 "duracion": "4 días",
                 "imagen_destacada": "assets/images/1/103.jpg",
                 "descripcion_corta": "Descubre la historia antigua de Japón.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Osaka",
+                        "descripcion": "Recepción en el aeropuerto de Kansai y traslado al hotel. Tarde libre para explorar Dotonbori."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos de Nara",
+                        "descripcion": "Visita guiada al templo Todai-ji, el parque de los ciervos y el santuario Kasuga Taisha."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Castillo y miradores de Osaka",
+                        "descripcion": "Recorrido por el castillo de Osaka, el Umeda Sky Building y compras en Shinsaibashi."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Regreso y despedida",
+                        "descripcion": "Desayuno y traslado al aeropuerto o estación de tren para continuar tu viaje o regresar a casa."
+                    }
+                ]
             }
         ]
     },
@@ -45,7 +136,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/2/201.jpg",
                 "descripcion_corta": "Relájate en las mejores playas tailandesas.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Phuket",
+                        "descripcion": "Recepción en el aeropuerto y traslado al hotel junto a la playa. Tiempo libre para relajarte."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Islas Phi Phi",
+                        "descripcion": "Excursión en barco a las famosas islas Phi Phi con almuerzo incluido y tiempo para snorkel."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Templos y miradores",
+                        "descripcion": "Visita al Gran Buda, el templo Wat Chalong y miradores con vistas al mar de Andamán."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Día libre en la playa",
+                        "descripcion": "Jornada libre para disfrutar del mar, tomar el sol o realizar actividades acuáticas opcionales."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Parque Nacional Sirinat",
+                        "descripcion": "Excursión de medio día por el parque natural costero y caminata suave por senderos junto al mar."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 202,
@@ -55,7 +178,34 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/2/202.jpg",
                 "descripcion_corta": "Visita templos y mercados tradicionales.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Bangkok",
+                        "descripcion": "Traslado al hotel y noche libre para explorar los mercados nocturnos."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos sagrados",
+                        "descripcion": "Visita guiada al Gran Palacio, el Templo del Buda Esmeralda y Wat Pho, hogar del Buda reclinado."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Mercados y canales",
+                        "descripcion": "Excursión en barca por los canales (klongs) y visita al mercado flotante Damnoen Saduak."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Bangkok moderno y compras",
+                        "descripcion": "Recorrido por Siam, MBK y los centros comerciales más emblemáticos. Tarde libre."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Despedida de Tailandia",
+                        "descripcion": "Desayuno, tiempo libre y traslado al aeropuerto para el regreso."
+                    }
+                ]
             }
         ]
     },
@@ -71,7 +221,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/3/301.jpg",
                 "descripcion_corta": "Explora Hanoi y la bahía de Ha Long.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Hanói",
+                        "descripcion": "Recepción en el aeropuerto y traslado al hotel. Noche libre para recorrer el casco antiguo."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Cultura y templos en Hanói",
+                        "descripcion": "Visita al Mausoleo de Ho Chi Minh, Pagoda del Pilar Único y paseo por el lago Hoan Kiem."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Viaje a la bahía de Ha Long",
+                        "descripcion": "Salida hacia Ha Long. Embarque en crucero y recorrido entre islas con noche a bordo."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Amanecer en la bahía",
+                        "descripcion": "Paseo en kayak y visita a una cueva. Regreso al puerto y traslado de vuelta a Hanói."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Día libre en Hanói",
+                        "descripcion": "Tiempo libre para visitar museos, mercados o realizar compras por tu cuenta."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para tomar el vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 302,
@@ -81,7 +263,34 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/3/302.jpg",
                 "descripcion_corta": "Ho Chi Minh y el delta del Mekong.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Ho Chi Minh",
+                        "descripcion": "Traslado al hotel y paseo opcional por el mercado Ben Thanh o la calle Bui Vien."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Ciudad de contrastes",
+                        "descripcion": "Visita a la Catedral de Notre Dame, el Palacio de la Reunificación y el Museo de los Restos de la Guerra."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Delta del Mekong",
+                        "descripcion": "Excursión de día completo al delta del río Mekong con paseo en barco y visita a aldeas flotantes."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Túneles de Cu Chi",
+                        "descripcion": "Recorrido por el sistema de túneles utilizados durante la guerra. Tarde libre en la ciudad."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 303,
@@ -91,7 +300,59 @@
                 "duracion": "10 días",
                 "imagen_destacada": "assets/images/3/303.jpg",
                 "descripcion_corta": "De norte a sur en un solo viaje.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Hanói",
+                        "descripcion": "Traslado al hotel y tiempo libre para aclimatarse. Noche en Hanói."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Descubriendo Hanói",
+                        "descripcion": "Recorrido cultural por el casco antiguo, templos históricos y espectáculos de marionetas acuáticas."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Bahía de Ha Long",
+                        "descripcion": "Viaje a la bahía y crucero nocturno entre sus formaciones rocosas."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "De Ha Long a Hué",
+                        "descripcion": "Regreso a tierra firme y vuelo a Hué, antigua capital imperial de Vietnam."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Ciudad imperial",
+                        "descripcion": "Visita a la Ciudadela, tumbas reales y paseo en barco por el río Perfume."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "De Hué a Hoi An",
+                        "descripcion": "Viaje por carretera panorámica a Hoi An, con parada en el paso Hai Van."
+                    },
+                    {
+                        "dia": 7,
+                        "titulo": "Encanto de Hoi An",
+                        "descripcion": "Tour a pie por el casco antiguo de Hoi An, sus templos, casas coloniales y mercados."
+                    },
+                    {
+                        "dia": 8,
+                        "titulo": "Vuelo a Ho Chi Minh",
+                        "descripcion": "Traslado al aeropuerto y vuelo a la ciudad de Ho Chi Minh. Tarde libre."
+                    },
+                    {
+                        "dia": 9,
+                        "titulo": "Delta del Mekong",
+                        "descripcion": "Excursión de día completo al delta, explorando canales y pueblos locales."
+                    },
+                    {
+                        "dia": 10,
+                        "titulo": "Despedida de Vietnam",
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                    }
+                ]
             }
         ]
     },
@@ -107,7 +368,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/4/401.jpg",
                 "descripcion_corta": "Delhi, Agra y Jaipur en un solo tour.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Delhi",
+                        "descripcion": "Recepción y traslado al hotel. Tiempo libre para descansar o explorar los mercados locales."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Delhi histórico",
+                        "descripcion": "Visita a la mezquita Jama Masjid, Fuerte Rojo y Raj Ghat, lugar de descanso de Gandhi."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Agra y el Taj Mahal",
+                        "descripcion": "Viaje a Agra para visitar el Taj Mahal y el Fuerte de Agra, Patrimonio de la Humanidad."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Jaipur, la ciudad rosa",
+                        "descripcion": "Visita al Palacio de los Vientos, el Fuerte Amber y el Observatorio Jantar Mantar."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Regreso a Delhi",
+                        "descripcion": "Retorno a Delhi con tiempo libre para compras o visitas opcionales."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Despedida de India",
+                        "descripcion": "Traslado al aeropuerto y fin del viaje."
+                    }
+                ]
             },
             {
                 "id": 402,
@@ -117,7 +410,44 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/4/402.jpg",
                 "descripcion_corta": "Templos y vida local en Tamil Nadu.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Chennai",
+                        "descripcion": "Recepción y traslado al hotel. Paseo por la costa de Marina Beach."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos de Mahabalipuram",
+                        "descripcion": "Visita a las famosas esculturas rupestres y templos de la costa de Coromandel."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Templos de Kanchipuram",
+                        "descripcion": "Exploración de templos antiguos y talleres de seda en esta ciudad sagrada."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Pondicherry",
+                        "descripcion": "Visita a esta antigua colonia francesa, con su arquitectura y ambiente único."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Templos de Tamil Nadu",
+                        "descripcion": "Visita a templos emblemáticos como Meenakshi en Madurai."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                    },
+                    {
+                        "dia": 7,
+                        "titulo": "Fin del viaje",
+                        "descripcion": "Día libre o vuelo según horario."
+                    }
+                ]
             },
             {
                 "id": 403,
@@ -127,7 +457,29 @@
                 "duracion": "4 días",
                 "imagen_destacada": "assets/images/4/403.jpg",
                 "descripcion_corta": "Rituales sagrados en el río más famoso.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Varanasi",
+                        "descripcion": "Recepción y traslado al hotel. Paseo por los ghats al atardecer."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Rituales en el Ganges",
+                        "descripcion": "Observación de ceremonias al amanecer y recorrido por templos sagrados."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Sarnath",
+                        "descripcion": "Visita a la ciudad budista donde Buda dio su primer sermón."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Despedida",
+                        "descripcion": "Tiempo libre y traslado al aeropuerto para el regreso."
+                    }
+                ]
             },
             {
                 "id": 404,
@@ -137,7 +489,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/4/404.jpg",
                 "descripcion_corta": "Paisajes únicos y pueblos de montaña.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Dehradun",
+                        "descripcion": "Recepción y traslado al hotel. Preparativos para la ruta por el Himalaya."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Rishikesh y Ashrams",
+                        "descripcion": "Visita a la ciudad espiritual, paseos por el río Ganges y prácticas de yoga."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Valle de Valley of Flowers",
+                        "descripcion": "Excursión al parque nacional conocido por sus flores alpinas y paisajes."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Haridwar",
+                        "descripcion": "Exploración de esta ciudad sagrada y sus baños rituales."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Pueblos de montaña",
+                        "descripcion": "Visita a pueblos tradicionales y rutas de senderismo suaves."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de salida."
+                    }
+                ]
             }
         ]
     },
@@ -153,7 +537,34 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/5/501.jpg",
                 "descripcion_corta": "Muralla China, Ciudad Prohibida y más.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Beijing",
+                        "descripcion": "Recepción y traslado al hotel. Tiempo libre para aclimatarse y paseo por Wangfujing."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Muralla China y Palacio de Verano",
+                        "descripcion": "Excursión a la Gran Muralla en Mutianyu y visita al Palacio de Verano."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Ciudad Prohibida y Plaza Tiananmen",
+                        "descripcion": "Visita a la Ciudad Prohibida, Plaza Tiananmen y Templo del Cielo."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Templo Lama y Mercado de la Seda",
+                        "descripcion": "Tour al Templo Lama y tiempo libre para compras en el Mercado de la Seda."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Despedida y regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto para vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 502,
@@ -163,7 +574,34 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/5/502.jpg",
                 "descripcion_corta": "Fusión de lo antiguo y lo futurista.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Shanghai",
+                        "descripcion": "Recepción y traslado al hotel. Paseo nocturno por el Bund con vistas al skyline."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Jardines Yuyuan y casco antiguo",
+                        "descripcion": "Visita a los Jardines Yuyuan, el bazar tradicional y el Templo del Buda de Jade."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Pudong y rascacielos",
+                        "descripcion": "Exploración del distrito financiero, subida a la Torre de Shanghai y centro financiero."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Museo de Shanghai y tiempo libre",
+                        "descripcion": "Visita al Museo de Shanghai y tarde libre para compras o actividades personales."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Regreso",
+                        "descripcion": "Traslado al aeropuerto y vuelo de vuelta."
+                    }
+                ]
             }
         ]
     },
@@ -179,7 +617,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/601.jpg",
                 "descripcion_corta": "Palacios, mercados y gastronomía coreana.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Seúl",
+                        "descripcion": "Recepción y traslado al hotel. Paseo nocturno por Myeongdong y primera experiencia gastronómica."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Palacios reales",
+                        "descripcion": "Visita al Palacio Gyeongbokgung y Museo Nacional de Corea."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Mercados tradicionales",
+                        "descripcion": "Exploración de mercados como Namdaemun y Insadong con tiempo para compras."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Cultura moderna",
+                        "descripcion": "Tour por Dongdaemun Design Plaza y calle de arte Hongdae."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Templo Jogyesa y río Cheonggyecheon",
+                        "descripcion": "Visita al templo y paseo por el río iluminado."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             },
             {
                 "id": 602,
@@ -189,7 +659,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/602.jpg",
                 "descripcion_corta": "La isla volcánica más famosa de Corea.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Jeju",
+                        "descripcion": "Recepción y traslado al hotel. Paseo por el mercado Dongmun."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Volcán Hallasan",
+                        "descripcion": "Excursión y senderismo por el Parque Nacional Hallasan."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Cascadas y cuevas",
+                        "descripcion": "Visita a las cascadas Cheonjiyeon y la cueva Manjanggul."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Museos y cultura local",
+                        "descripcion": "Tour por el Museo de Teddy Bear y el Museo de Historia Natural de Jeju."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Playas y relax",
+                        "descripcion": "Día de descanso en la playa de Hyeopjae y paseo por la costa."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             },
             {
                 "id": 603,
@@ -199,7 +701,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/6/603.jpg",
                 "descripcion_corta": "Un recorrido por la cultura pop coreana.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Seúl",
+                        "descripcion": "Recepción y traslado al hotel. Paseo inicial por el barrio de Gangnam."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Tour por estudios y agencias",
+                        "descripcion": "Visita a agencias de K-pop y estudios de grabación, incluyendo visita guiada."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Compras de moda y gadgets",
+                        "descripcion": "Exploración de tiendas de moda en Apgujeong y COEX Mall."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Museo y café temático K-pop",
+                        "descripcion": "Visita al museo K-pop y tarde en un café temático de idols."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Concierto o evento especial",
+                        "descripcion": "Asistencia a un concierto o evento cultural relacionado con el K-pop (según calendario)."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             }
         ]
     },
@@ -215,7 +749,34 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/7/701.jpg",
                 "descripcion_corta": "Templos, playas y arrozales en la isla mágica.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Bali",
+                        "descripcion": "Recepción y traslado al hotel. Paseo por la playa de Kuta al atardecer."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos sagrados",
+                        "descripcion": "Visita a los templos de Uluwatu y Tanah Lot con espectáculo tradicional de danza kecak."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Arrozales y cultura local",
+                        "descripcion": "Recorrido por los arrozales de Tegallalang y visita a una aldea tradicional balinesa."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Arte y espiritualidad",
+                        "descripcion": "Visita a Ubud, mercado de arte y al Monkey Forest."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Relajación y bienestar",
+                        "descripcion": "Día de spa y masaje tradicional balinés."
+                    }
+                ]
             },
             {
                 "id": 702,
@@ -225,7 +786,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/7/702.jpg",
                 "descripcion_corta": "Aventura entre volcanes y templos antiguos.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Yogyakarta",
+                        "descripcion": "Recepción y traslado al hotel. Cena tradicional javanesa."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos de Borobudur y Prambanan",
+                        "descripcion": "Excursión a los templos Patrimonio de la Humanidad de Borobudur y Prambanan."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Volcán Merapi",
+                        "descripcion": "Subida guiada al volcán Merapi y visita a pueblos cercanos."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Mercado tradicional y cultura",
+                        "descripcion": "Visita al mercado tradicional y talleres de batik."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Exploración de naturaleza",
+                        "descripcion": "Recorrido por parques naturales y cascadas."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             }
         ]
     },
@@ -241,7 +834,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/8/801.jpg",
                 "descripcion_corta": "Cultura y arquitectura en la capital de Nepal.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Katmandú",
+                        "descripcion": "Recepción y traslado al hotel. Paseo por Thamel, barrio turístico."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos de Katmandú",
+                        "descripcion": "Visita a Swayambhunath (Templo de los monos), Pashupatinath y Boudhanath."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Patan y Bhaktapur",
+                        "descripcion": "Excursión a las ciudades históricas de Patan y Bhaktapur."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Valle de Katmandú",
+                        "descripcion": "Visita a templos y jardines en el valle y mercado local."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Cultura local y artesanía",
+                        "descripcion": "Talleres de artesanía tradicional y tiempo libre para explorar."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             },
             {
                 "id": 802,
@@ -251,7 +876,54 @@
                 "duracion": "9 días",
                 "imagen_destacada": "assets/images/8/802.jpg",
                 "descripcion_corta": "Una experiencia inolvidable en el Himalaya.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Pokhara",
+                        "descripcion": "Recepción y preparación para el trekking."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Inicio del trekking",
+                        "descripcion": "Salida hacia Nayapul y caminata hasta Tikhedhunga."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Ascenso a Ghorepani",
+                        "descripcion": "Trekking a través de bosques y aldeas tradicionales."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Subida al Poon Hill",
+                        "descripcion": "Amanecer en Poon Hill con vistas panorámicas del Himalaya."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Descenso a Tadapani",
+                        "descripcion": "Sendero entre naturaleza hasta Tadapani."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Trekking a Ghandruk",
+                        "descripcion": "Visita a la aldea Gurung y su cultura."
+                    },
+                    {
+                        "dia": 7,
+                        "titulo": "Regreso a Pokhara",
+                        "descripcion": "Descenso y traslado a Pokhara."
+                    },
+                    {
+                        "dia": 8,
+                        "titulo": "Día de descanso",
+                        "descripcion": "Exploración libre en Pokhara y relax."
+                    },
+                    {
+                        "dia": 9,
+                        "titulo": "Regreso",
+                        "descripcion": "Traslado al aeropuerto para salida."
+                    }
+                ]
             },
             {
                 "id": 803,
@@ -261,7 +933,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/8/803.jpg",
                 "descripcion_corta": "Monasterios, espiritualidad y paisajes.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Katmandú",
+                        "descripcion": "Recepción y traslado al hotel."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Templos budistas de Katmandú",
+                        "descripcion": "Visita a Boudhanath, Kopan Monastery y Swayambhunath."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Lumbini, lugar de nacimiento de Buda",
+                        "descripcion": "Vuelo a Lumbini y visita a los principales templos y jardines."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Exploración cultural en Lumbini",
+                        "descripcion": "Visita a monasterios internacionales y museo."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Regreso a Katmandú",
+                        "descripcion": "Vuelo de regreso y tarde libre."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Salida",
+                        "descripcion": "Desayuno y traslado al aeropuerto."
+                    }
+                ]
             }
         ]
     },
@@ -277,7 +981,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/9/901.jpg",
                 "descripcion_corta": "Riqueza arqueológica e historia antigua.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Colombo",
+                        "descripcion": "Recepción y traslado a Sigiriya."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Sigiriya y Polonnaruwa",
+                        "descripcion": "Ascenso a la Roca de Sigiriya y visita a las ruinas de Polonnaruwa."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Anuradhapura",
+                        "descripcion": "Exploración del antiguo reino y sus templos."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Dambulla y templos de cueva",
+                        "descripcion": "Visita a los templos rupestres de Dambulla."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Kandy y el Templo del Diente",
+                        "descripcion": "Viaje a Kandy y visita al Templo del Diente de Buda."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso a Colombo",
+                        "descripcion": "Traslado a Colombo y vuelo de regreso."
+                    }
+                ]
             },
             {
                 "id": 902,
@@ -287,7 +1023,39 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/9/902.jpg",
                 "descripcion_corta": "Playas, naturaleza y fauna local.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": [
+                    {
+                        "dia": 1,
+                        "titulo": "Llegada a Colombo",
+                        "descripcion": "Recepción y traslado a Bentota."
+                    },
+                    {
+                        "dia": 2,
+                        "titulo": "Safari en Yala",
+                        "descripcion": "Excursión para avistar elefantes y fauna salvaje."
+                    },
+                    {
+                        "dia": 3,
+                        "titulo": "Playas de Mirissa",
+                        "descripcion": "Relajación y actividades acuáticas en la playa."
+                    },
+                    {
+                        "dia": 4,
+                        "titulo": "Galle, ciudad fortificada",
+                        "descripcion": "Visita al fuerte holandés y casco antiguo."
+                    },
+                    {
+                        "dia": 5,
+                        "titulo": "Paseo en barco por el río Bentota",
+                        "descripcion": "Exploración de manglares y vida silvestre."
+                    },
+                    {
+                        "dia": 6,
+                        "titulo": "Regreso a Colombo",
+                        "descripcion": "Traslado a Colombo y vuelo de regreso."
+                    }
+                ]
             }
         ]
     },
@@ -303,7 +1071,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/10/1001.jpg",
                 "descripcion_corta": "Rascacielos, cultura y gastronomía.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1002,
@@ -313,7 +1082,8 @@
                 "duracion": "8 días",
                 "imagen_destacada": "assets/images/10/1002.jpg",
                 "descripcion_corta": "Naturaleza exótica y orangutanes.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             },
             {
                 "id": 1003,
@@ -323,7 +1093,8 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/10/1003.jpg",
                 "descripcion_corta": "Playas vírgenes y vida marina.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -339,7 +1110,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/11/1101.jpg",
                 "descripcion_corta": "Maravíllate con los templos milenarios de Camboya.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1102,
@@ -349,7 +1121,8 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/11/1102.jpg",
                 "descripcion_corta": "Descubre la capital y su legado cultural.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -365,7 +1138,8 @@
                 "duracion": "8 días",
                 "imagen_destacada": "assets/images/12/1201.jpg",
                 "descripcion_corta": "Navega entre lagunas, cuevas y aguas cristalinas.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1202,
@@ -375,7 +1149,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/12/1202.jpg",
                 "descripcion_corta": "La mezcla entre historia colonial y modernidad.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             },
             {
                 "id": 1203,
@@ -385,7 +1160,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/12/1203.jpg",
                 "descripcion_corta": "Playas, cascadas y nado con tiburones ballena.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -401,7 +1177,8 @@
                 "duracion": "8 días",
                 "imagen_destacada": "assets/images/13/1301.jpg",
                 "descripcion_corta": "Paisajes infinitos y cultura nómada auténtica.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1302,
@@ -411,7 +1188,8 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/13/1302.jpg",
                 "descripcion_corta": "La capital más remota y sus contrastes.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -427,7 +1205,8 @@
                 "duracion": "8 días",
                 "imagen_destacada": "assets/images/14/1401.jpg",
                 "descripcion_corta": "Joyas arquitectónicas en la Ruta de la Seda.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1402,
@@ -437,7 +1216,8 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/14/1402.jpg",
                 "descripcion_corta": "Una ciudad detenida en el tiempo.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             },
             {
                 "id": 1403,
@@ -447,7 +1227,8 @@
                 "duracion": "8 días",
                 "imagen_destacada": "assets/images/14/1403.jpg",
                 "descripcion_corta": "Aventura entre dunas y yurtas tradicionales.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -463,7 +1244,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/15/1501.jpg",
                 "descripcion_corta": "Explora la capital cultural de Kazajistán.",
-                "destacado": true
+                "destacado": true,
+                "ruta_viaje": []
             },
             {
                 "id": 1502,
@@ -473,7 +1255,8 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/15/1502.jpg",
                 "descripcion_corta": "Senderismo y naturaleza en estado puro.",
-                "destacado": false
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     }
