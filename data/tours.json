@@ -10,6 +10,7 @@
                 "duracion": "7 días",
                 "imagen_destacada": "assets/images/1/101.jpg",
                 "descripcion_corta": "Circuito clásico por las ciudades más emblemáticas.",
+                "descripcion_larga": "<p><strong><em>Este circuito de 7 días te lleva a descubrir lo mejor de Japón</em></strong>, combinando la modernidad vibrante de Tokio con la tradición histórica de Kioto. Comenzarás tu aventura con una cálida recepción en el aeropuerto de Tokio y tiempo libre para aclimatarte y explorar el dinámico barrio de <strong>Shinjuku</strong> por tu cuenta. El segundo día incluye una visita guiada por los emblemáticos barrios de <strong>Asakusa</strong>, con su famoso templo Senso-ji, y <strong>Akihabara</strong>, el paraíso de la cultura pop y la tecnología, además de un relajante paseo en barco por el río Sumida. El tercer día será una experiencia inolvidable con una excursión al icónico <strong>Monte Fuji</strong>, haciendo una parada en la quinta estación para disfrutar de vistas panorámicas, y luego una visita al hermoso lago Ashi en Hakone, famoso por sus aguas termales y paisajes naturales. El cuarto día cruzarás el país en el tren bala <em>Shinkansen</em> hacia Kioto, la antigua capital, donde por la tarde podrás pasear libremente por el tradicional barrio de <strong>Gion</strong>, conocido por sus geishas y ambiente histórico. Durante el quinto día, explorarás algunos de los templos más emblemáticos de Kioto: el majestuoso <strong>Kinkaku-ji</strong> o Pabellón Dorado, el jardín zen de <strong>Ryoan-ji</strong>, y el mágico bosque de bambú de <strong>Arashiyama</strong>, un lugar ideal para conectar con la naturaleza. El sexto día te ofrece libertad para descubrir Kioto a tu ritmo o la opción de una excursión adicional a <strong>Nara</strong>, ciudad famosa por sus templos y los ciervos que deambulan libremente. Finalmente, el séptimo día cerrarás tu viaje con un traslado al aeropuerto para tomar tu vuelo de regreso a casa, llevando contigo recuerdos inolvidables de una mezcla perfecta entre tradición, cultura y naturaleza japonesa.</p>",
                 "destacado": true,
                 "ruta_viaje": [
                     {
@@ -56,6 +57,7 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/1/102.jpg",
                 "descripcion_corta": "Naturaleza y nieve en el norte de Japón.",
+                "descripcion_larga": "<p><strong><em>Explora la naturaleza y la nieve del norte de Japón</em></strong> en este viaje de 6 días por la hermosa isla de Hokkaido. Comenzarás con una cálida recepción en el aeropuerto de New Chitose y traslado a tu hotel en Sapporo, con opción a un paseo nocturno para descubrir el ambiente nocturno de la ciudad. El segundo día recorrerás los lugares más emblemáticos de Sapporo, incluyendo la icónica Torre del Reloj, el mercado Nijo y el Parque Odori, donde además disfrutarás de una cena tradicional incluida. El tercer día te adentrarás en las relajantes aguas termales de Noboribetsu, con tiempo para disfrutar de un auténtico onsen japonés. Al cuarto día viajarás a la estación de esquí de Furano para vivir deportes de invierno o paseos en trineo en un paisaje de nieve impresionante. El día cinco estará dedicado a la naturaleza con una visita al lago Shikotsu y paseos por senderos con vistas a volcanes cubiertos de nieve, ideal para amantes del aire libre. Finalmente, el sexto día te despedirás de Hokkaido tras un desayuno, con mañana libre para compras o actividades personales antes del traslado al aeropuerto para tu vuelo de regreso, llevando contigo el recuerdo de un viaje lleno de paisajes espectaculares y experiencias inolvidables.</p>",
                 "destacado": false,
                 "ruta_viaje": [
                     {
@@ -98,6 +100,7 @@
                 "duracion": "4 días",
                 "imagen_destacada": "assets/images/1/103.jpg",
                 "descripcion_corta": "Descubre la historia antigua de Japón.",
+                "descripcion_larga": "<p><strong><em>Sumérgete en la historia antigua de Japón</em></strong> durante este viaje de 4 días por Nara y Osaka. El primer día te recibirán en el aeropuerto de Kansai y te trasladarán a tu hotel en Osaka, donde tendrás la tarde libre para explorar el animado barrio de Dotonbori. El segundo día te llevará a Nara para visitar el impresionante templo Todai-ji, hogar del Gran Buda, y pasear por el parque de los ciervos, donde podrás interactuar con estos animales sagrados, además de conocer el santuario Kasuga Taisha con sus cientos de linternas de piedra y bronce. El tercer día explorarás Osaka, comenzando con el histórico castillo de Osaka, seguido de la visita al moderno Umeda Sky Building, que ofrece vistas panorámicas de la ciudad, y tiempo para compras en la popular zona comercial de Shinsaibashi. En el cuarto y último día disfrutarás de un desayuno antes del traslado al aeropuerto o estación de tren para continuar tu viaje o regresar a casa, llevándote contigo una profunda conexión con la cultura y la historia japonesa a través de templos, arquitectura y tradiciones que han perdurado por siglos.</p>",
                 "destacado": false,
                 "ruta_viaje": [
                     {
@@ -136,6 +139,7 @@
                 "duracion": "6 días",
                 "imagen_destacada": "assets/images/2/201.jpg",
                 "descripcion_corta": "Relájate en las mejores playas tailandesas.",
+                "descripcion_larga": "<p><strong><em>Disfruta de 6 días de relax y aventura en las playas paradisíacas de Phuket</em></strong>. Comenzarás con la llegada y traslado al hotel junto a la playa, con tiempo libre para acomodarte y relajarte. El segundo día incluye una excursión en barco a las famosas islas Phi Phi, con almuerzo incluido y oportunidad para snorkel en sus aguas cristalinas. El tercer día visitarás templos y miradores destacados, como el Gran Buda, el templo Wat Chalong y panorámicas vistas al mar de Andamán. El cuarto día es libre para disfrutar del mar, tomar el sol o participar en actividades acuáticas opcionales. En el quinto día descubrirás el Parque Nacional Sirinat con una caminata suave por sus senderos costeros y paisajes naturales impresionantes. Finalmente, el sexto día concluirá con desayuno y traslado al aeropuerto para tu vuelo de regreso, llevando contigo memorias de un destino tropical inolvidable.</p>",
                 "destacado": true,
                 "ruta_viaje": [
                     {
@@ -178,6 +182,7 @@
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/2/202.jpg",
                 "descripcion_corta": "Visita templos y mercados tradicionales.",
+                "descripcion_larga": "<p><strong><em>Explora la vibrante cultura de Bangkok en 5 días</em></strong>, comenzando con tu llegada y traslado al hotel, seguido de una noche libre para recorrer los mercados nocturnos. El segundo día te llevará a conocer templos sagrados como el Gran Palacio, el Templo del Buda Esmeralda y Wat Pho, hogar del famoso Buda reclinado. El tercer día disfrutarás de una excursión en barca por los canales (klongs) y visitarás el colorido mercado flotante Damnoen Saduak. El cuarto día descubrirás el Bangkok moderno, con recorridos por Siam, MBK y los centros comerciales más importantes, dejando la tarde libre para actividades personales. Finalmente, el quinto día será de despedida, con desayuno, tiempo libre y traslado al aeropuerto para tu regreso, recordando la riqueza histórica y comercial de esta ciudad fascinante.</p>",
                 "destacado": false,
                 "ruta_viaje": [
                     {
