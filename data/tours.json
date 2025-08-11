@@ -16,37 +16,51 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Tokio",
-                        "descripcion": "Recepción en el aeropuerto, traslado al hotel y tarde libre para explorar Shinjuku por tu cuenta."
+                        "descripcion": "Recepción en el aeropuerto, traslado al hotel y tarde libre para explorar Shinjuku por tu cuenta.",
+                        "latitud": 35.6938,
+                        "longitud": 139.7034
                     },
                     {
                         "dia": 2,
                         "titulo": "Lo mejor de Tokio",
-                        "descripcion": "Visita guiada a los barrios de Asakusa y Akihabara, con paseo en barco por el río Sumida."
+                        "descripcion": "Visita guiada a los barrios de Asakusa y Akihabara, con paseo en barco por el río Sumida.",
+                        "latitud": 35.7148,
+                        "longitud": 139.7967
                     },
                     {
                         "dia": 3,
                         "titulo": "Excursión al Monte Fuji",
-                        "descripcion": "Viaje al Monte Fuji, con parada en la quinta estación y visita al lago Ashi en Hakone."
+                        "descripcion": "Viaje al Monte Fuji, con parada en la quinta estación y visita al lago Ashi en Hakone.",
+                        "latitud": 35.3606,
+                        "longitud": 138.7274
                     },
                     {
                         "dia": 4,
                         "titulo": "Tren bala a Kioto",
-                        "descripcion": "Traslado en shinkansen a Kioto. Por la tarde, recorrido libre por Gion, el tradicional barrio de las geishas."
+                        "descripcion": "Traslado en shinkansen a Kioto. Por la tarde, recorrido libre por Gion, el tradicional barrio de las geishas.",
+                        "latitud": 35.0037,
+                        "longitud": 135.7788
                     },
                     {
                         "dia": 5,
                         "titulo": "Templos y naturaleza",
-                        "descripcion": "Visita guiada al templo dorado Kinkaku-ji, al jardín zen de Ryoan-ji y al bosque de bambú de Arashiyama."
+                        "descripcion": "Visita guiada al templo dorado Kinkaku-ji, al jardín zen de Ryoan-ji y al bosque de bambú de Arashiyama.",
+                        "latitud": 35.0394,
+                        "longitud": 135.7292
                     },
                     {
                         "dia": 6,
                         "titulo": "Día libre u opción Nara",
-                        "descripcion": "Día libre en Kioto para explorar a tu ritmo o tomar una excursión opcional a los templos de Nara."
+                        "descripcion": "Día libre en Kioto para explorar a tu ritmo o tomar una excursión opcional a los templos de Nara.",
+                        "latitud": 34.6851,
+                        "longitud": 135.8048
                     },
                     {
                         "dia": 7,
                         "titulo": "Regreso a casa",
-                        "descripcion": "Desayuno, traslado al aeropuerto y vuelo de regreso a tu ciudad de origen."
+                        "descripcion": "Desayuno, traslado al aeropuerto y vuelo de regreso a tu ciudad de origen.",
+                        "latitud": 35.5494,
+                        "longitud": 139.7798
                     }
                 ]
             },
