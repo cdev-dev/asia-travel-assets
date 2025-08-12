@@ -77,32 +77,44 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Sapporo",
-                        "descripcion": "Recepción en el aeropuerto de New Chitose y traslado al hotel. Paseo nocturno opcional por la ciudad."
+                        "descripcion": "Recepción en el aeropuerto de New Chitose y traslado al hotel. Paseo nocturno opcional por la ciudad.",
+                        "latitud": 43.0687,
+                        "longitud": 141.3507
                     },
                     {
                         "dia": 2,
                         "titulo": "Descubriendo Sapporo",
-                        "descripcion": "Tour por la Torre del Reloj, el mercado Nijo y el Parque Odori. Cena tradicional incluida."
+                        "descripcion": "Tour por la Torre del Reloj, el mercado Nijo y el Parque Odori. Cena tradicional incluida.",
+                        "latitud": 43.0621,
+                        "longitud": 141.3544
                     },
                     {
                         "dia": 3,
                         "titulo": "Termas de Noboribetsu",
-                        "descripcion": "Excursión a las famosas aguas termales de Noboribetsu. Tiempo para relajarse en un onsen."
+                        "descripcion": "Excursión a las famosas aguas termales de Noboribetsu. Tiempo para relajarse en un onsen.",
+                        "latitud": 42.4128,
+                        "longitud": 141.1066
                     },
                     {
                         "dia": 4,
                         "titulo": "Estación de esquí de Furano",
-                        "descripcion": "Viaje a Furano para disfrutar de deportes de invierno o paseos en trineo entre paisajes nevados."
+                        "descripcion": "Viaje a Furano para disfrutar de deportes de invierno o paseos en trineo entre paisajes nevados.",
+                        "latitud": 43.3431,
+                        "longitud": 142.3831
                     },
                     {
                         "dia": 5,
                         "titulo": "Lagos y naturaleza",
-                        "descripcion": "Visita al lago Shikotsu y paseo por senderos naturales con vistas a volcanes nevados."
+                        "descripcion": "Visita al lago Shikotsu y paseo por senderos naturales con vistas a volcanes nevados.",
+                        "latitud": 42.7650,
+                        "longitud": 141.3880
                     },
                     {
                         "dia": 6,
                         "titulo": "Despedida de Hokkaido",
-                        "descripcion": "Desayuno, mañana libre para compras y traslado al aeropuerto para vuelo de regreso."
+                        "descripcion": "Desayuno, mañana libre para compras y traslado al aeropuerto para vuelo de regreso.",
+                        "latitud": 42.7752,
+                        "longitud": 141.6923
                     }
                 ]
             },
@@ -120,22 +132,30 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Osaka",
-                        "descripcion": "Recepción en el aeropuerto de Kansai y traslado al hotel. Tarde libre para explorar Dotonbori."
+                        "descripcion": "Recepción en el aeropuerto de Kansai y traslado al hotel. Tarde libre para explorar Dotonbori.",
+                        "latitud": 34.6687,
+                        "longitud": 135.5013
                     },
                     {
                         "dia": 2,
                         "titulo": "Templos de Nara",
-                        "descripcion": "Visita guiada al templo Todai-ji, el parque de los ciervos y el santuario Kasuga Taisha."
+                        "descripcion": "Visita guiada al templo Todai-ji, el parque de los ciervos y el santuario Kasuga Taisha.",
+                        "latitud": 34.6851,
+                        "longitud": 135.8048
                     },
                     {
                         "dia": 3,
                         "titulo": "Castillo y miradores de Osaka",
-                        "descripcion": "Recorrido por el castillo de Osaka, el Umeda Sky Building y compras en Shinsaibashi."
+                        "descripcion": "Recorrido por el castillo de Osaka, el Umeda Sky Building y compras en Shinsaibashi.",
+                        "latitud": 34.6873,
+                        "longitud": 135.5262
                     },
                     {
                         "dia": 4,
                         "titulo": "Regreso y despedida",
-                        "descripcion": "Desayuno y traslado al aeropuerto o estación de tren para continuar tu viaje o regresar a casa."
+                        "descripcion": "Desayuno y traslado al aeropuerto o estación de tren para continuar tu viaje o regresar a casa.",
+                        "latitud": 34.4355,
+                        "longitud": 135.2441
                     }
                 ]
             }
