@@ -5,6 +5,8 @@
         "tours": [
             {
                 "id": 101,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "titulo": "Tokio y Kioto en 7 días",
                 "precio": 1390,
                 "duracion": "7 días",
@@ -66,6 +68,8 @@
             },
             {
                 "id": 102,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "titulo": "Aventura en Hokkaido",
                 "precio": 1150,
                 "duracion": "6 días",
@@ -120,6 +124,8 @@
             },
             {
                 "id": 103,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 1,
                 "titulo": "Templos de Nara y Osaka",
                 "precio": 890,
@@ -158,6 +164,20 @@
                         "longitud": 135.2441
                     }
                 ]
+            },
+            {
+                "id": 104,
+                "destino_id": 1,
+                "destino_combinado": true,
+                "pais_combinado": "Japón - Corea del Sur",
+                "titulo": "De Tokio a Seúl: Cultura y Modernidad",
+                "precio": 1850,
+                "duracion": "9 días",
+                "imagen_destacada": "assets/images/1/104.jpg",
+                "descripcion_corta": "Descubre lo mejor de Japón y Corea del Sur en un solo viaje.",
+                "descripcion_larga": "Un recorrido por las ciudades más emblemáticas de Japón y Corea del Sur, combinando tradición y modernidad.",
+                "destacado": true,
+                "ruta_viaje": []
             }
         ]
     },
@@ -167,6 +187,8 @@
         "tours": [
             {
                 "id": 201,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 2,
                 "titulo": "Playas de Phuket",
                 "precio": 750,
@@ -179,37 +201,51 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Phuket",
-                        "descripcion": "Recepción en el aeropuerto y traslado al hotel junto a la playa. Tiempo libre para relajarte."
+                        "descripcion": "Recepción en el aeropuerto y traslado al hotel junto a la playa. Tiempo libre para relajarte.",
+                        "latitud": 7.8804,
+                        "longitud": 98.3923
                     },
                     {
                         "dia": 2,
                         "titulo": "Islas Phi Phi",
-                        "descripcion": "Excursión en barco a las famosas islas Phi Phi con almuerzo incluido y tiempo para snorkel."
+                        "descripcion": "Excursión en barco a las famosas islas Phi Phi con almuerzo incluido y tiempo para snorkel.",
+                        "latitud": 7.7407,
+                        "longitud": 98.7784
                     },
                     {
                         "dia": 3,
                         "titulo": "Templos y miradores",
-                        "descripcion": "Visita al Gran Buda, el templo Wat Chalong y miradores con vistas al mar de Andamán."
+                        "descripcion": "Visita al Gran Buda, el templo Wat Chalong y miradores con vistas al mar de Andamán.",
+                        "latitud": 7.8586,
+                        "longitud": 98.3032
                     },
                     {
                         "dia": 4,
                         "titulo": "Día libre en la playa",
-                        "descripcion": "Jornada libre para disfrutar del mar, tomar el sol o realizar actividades acuáticas opcionales."
+                        "descripcion": "Jornada libre para disfrutar del mar, tomar el sol o realizar actividades acuáticas opcionales.",
+                        "latitud": 7.8914,
+                        "longitud": 98.4078
                     },
                     {
                         "dia": 5,
                         "titulo": "Parque Nacional Sirinat",
-                        "descripcion": "Excursión de medio día por el parque natural costero y caminata suave por senderos junto al mar."
+                        "descripcion": "Excursión de medio día por el parque natural costero y caminata suave por senderos junto al mar.",
+                        "latitud": 8.0972,
+                        "longitud": 98.3066
                     },
                     {
                         "dia": 6,
                         "titulo": "Regreso",
-                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso.",
+                        "latitud": 8.1132,
+                        "longitud": 98.3161
                     }
                 ]
             },
             {
                 "id": 202,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 2,
                 "titulo": "Bangkok cultural",
                 "precio": 680,
@@ -222,29 +258,53 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Bangkok",
-                        "descripcion": "Traslado al hotel y noche libre para explorar los mercados nocturnos."
+                        "descripcion": "Traslado al hotel y noche libre para explorar los mercados nocturnos.",
+                        "latitud": 13.7563,
+                        "longitud": 100.5018
                     },
                     {
                         "dia": 2,
                         "titulo": "Templos sagrados",
-                        "descripcion": "Visita guiada al Gran Palacio, el Templo del Buda Esmeralda y Wat Pho, hogar del Buda reclinado."
+                        "descripcion": "Visita guiada al Gran Palacio, el Templo del Buda Esmeralda y Wat Pho, hogar del Buda reclinado.",
+                        "latitud": 13.7500,
+                        "longitud": 100.4913
                     },
                     {
                         "dia": 3,
                         "titulo": "Mercados y canales",
-                        "descripcion": "Excursión en barca por los canales (klongs) y visita al mercado flotante Damnoen Saduak."
+                        "descripcion": "Excursión en barca por los canales (klongs) y visita al mercado flotante Damnoen Saduak.",
+                        "latitud": 13.5186,
+                        "longitud": 99.9580
                     },
                     {
                         "dia": 4,
                         "titulo": "Bangkok moderno y compras",
-                        "descripcion": "Recorrido por Siam, MBK y los centros comerciales más emblemáticos. Tarde libre."
+                        "descripcion": "Recorrido por Siam, MBK y los centros comerciales más emblemáticos. Tarde libre.",
+                        "latitud": 13.7466,
+                        "longitud": 100.5347
                     },
                     {
                         "dia": 5,
                         "titulo": "Despedida de Tailandia",
-                        "descripcion": "Desayuno, tiempo libre y traslado al aeropuerto para el regreso."
+                        "descripcion": "Desayuno, tiempo libre y traslado al aeropuerto para el regreso.",
+                        "latitud": 13.6904,
+                        "longitud": 100.7501
                     }
                 ]
+            },
+            {
+                "id": 203,
+                "destino_id": 2,
+                "destino_combinado": true,
+                "pais_combinado": "Tailandia - Vietnam",
+                "titulo": "Sabores y templos del Sudeste Asiático",
+                "precio": 1690,
+                "duracion": "10 días",
+                "imagen_destacada": "assets/images/2/203.jpg",
+                "descripcion_corta": "Bangkok y Hanói, dos capitales llenas de vida y cultura.",
+                "descripcion_larga": "Explora la vibrante Bangkok y la histórica Hanói, con templos, mercados y gastronomía única.",
+                "destacado": true,
+                "ruta_viaje": []
             }
         ]
     },
@@ -254,6 +314,8 @@
         "tours": [
             {
                 "id": 301,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 3,
                 "titulo": "Vietnam del norte",
                 "precio": 820,
@@ -265,37 +327,51 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Hanói",
-                        "descripcion": "Recepción en el aeropuerto y traslado al hotel. Noche libre para recorrer el casco antiguo."
+                        "descripcion": "Recepción en el aeropuerto y traslado al hotel. Noche libre para recorrer el casco antiguo.",
+                        "latitud": 21.0285,
+                        "longitud": 105.8542
                     },
                     {
                         "dia": 2,
                         "titulo": "Cultura y templos en Hanói",
-                        "descripcion": "Visita al Mausoleo de Ho Chi Minh, Pagoda del Pilar Único y paseo por el lago Hoan Kiem."
+                        "descripcion": "Visita al Mausoleo de Ho Chi Minh, Pagoda del Pilar Único y paseo por el lago Hoan Kiem.",
+                        "latitud": 21.0367,
+                        "longitud": 105.8342
                     },
                     {
                         "dia": 3,
                         "titulo": "Viaje a la bahía de Ha Long",
-                        "descripcion": "Salida hacia Ha Long. Embarque en crucero y recorrido entre islas con noche a bordo."
+                        "descripcion": "Salida hacia Ha Long. Embarque en crucero y recorrido entre islas con noche a bordo.",
+                        "latitud": 20.9101,
+                        "longitud": 107.1839
                     },
                     {
                         "dia": 4,
                         "titulo": "Amanecer en la bahía",
-                        "descripcion": "Paseo en kayak y visita a una cueva. Regreso al puerto y traslado de vuelta a Hanói."
+                        "descripcion": "Paseo en kayak y visita a una cueva. Regreso al puerto y traslado de vuelta a Hanói.",
+                        "latitud": 20.9216,
+                        "longitud": 107.0762
                     },
                     {
                         "dia": 5,
                         "titulo": "Día libre en Hanói",
-                        "descripcion": "Tiempo libre para visitar museos, mercados o realizar compras por tu cuenta."
+                        "descripcion": "Tiempo libre para visitar museos, mercados o realizar compras por tu cuenta.",
+                        "latitud": 21.0285,
+                        "longitud": 105.8542
                     },
                     {
                         "dia": 6,
                         "titulo": "Regreso",
-                        "descripcion": "Desayuno y traslado al aeropuerto para tomar el vuelo de regreso."
+                        "descripcion": "Desayuno y traslado al aeropuerto para tomar el vuelo de regreso.",
+                        "latitud": 21.2187,
+                        "longitud": 105.8048
                     }
                 ]
             },
             {
                 "id": 302,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 3,
                 "titulo": "Vietnam del sur",
                 "precio": 790,
@@ -307,32 +383,44 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Ho Chi Minh",
-                        "descripcion": "Traslado al hotel y paseo opcional por el mercado Ben Thanh o la calle Bui Vien."
+                        "descripcion": "Traslado al hotel y paseo opcional por el mercado Ben Thanh o la calle Bui Vien.",
+                        "latitud": 10.7769,
+                        "longitud": 106.7009
                     },
                     {
                         "dia": 2,
                         "titulo": "Ciudad de contrastes",
-                        "descripcion": "Visita a la Catedral de Notre Dame, el Palacio de la Reunificación y el Museo de los Restos de la Guerra."
+                        "descripcion": "Visita a la Catedral de Notre Dame, el Palacio de la Reunificación y el Museo de los Restos de la Guerra.",
+                        "latitud": 10.7798,
+                        "longitud": 106.6992
                     },
                     {
                         "dia": 3,
                         "titulo": "Delta del Mekong",
-                        "descripcion": "Excursión de día completo al delta del río Mekong con paseo en barco y visita a aldeas flotantes."
+                        "descripcion": "Excursión de día completo al delta del río Mekong con paseo en barco y visita a aldeas flotantes.",
+                        "latitud": 10.1426,
+                        "longitud": 106.3730
                     },
                     {
                         "dia": 4,
                         "titulo": "Túneles de Cu Chi",
-                        "descripcion": "Recorrido por el sistema de túneles utilizados durante la guerra. Tarde libre en la ciudad."
+                        "descripcion": "Recorrido por el sistema de túneles utilizados durante la guerra. Tarde libre en la ciudad.",
+                        "latitud": 11.1467,
+                        "longitud": 106.4886
                     },
                     {
                         "dia": 5,
                         "titulo": "Regreso",
-                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso.",
+                        "latitud": 10.8188,
+                        "longitud": 106.6518
                     }
                 ]
             },
             {
                 "id": 303,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 3,
                 "titulo": "Ruta completa de Vietnam",
                 "precio": 1420,
@@ -344,54 +432,88 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Hanói",
-                        "descripcion": "Traslado al hotel y tiempo libre para aclimatarse. Noche en Hanói."
+                        "descripcion": "Traslado al hotel y tiempo libre para aclimatarse. Noche en Hanói.",
+                        "latitud": 21.0285,
+                        "longitud": 105.8542
                     },
                     {
                         "dia": 2,
                         "titulo": "Descubriendo Hanói",
-                        "descripcion": "Recorrido cultural por el casco antiguo, templos históricos y espectáculos de marionetas acuáticas."
+                        "descripcion": "Recorrido cultural por el casco antiguo, templos históricos y espectáculos de marionetas acuáticas.",
+                        "latitud": 21.0367,
+                        "longitud": 105.8342
                     },
                     {
                         "dia": 3,
                         "titulo": "Bahía de Ha Long",
-                        "descripcion": "Viaje a la bahía y crucero nocturno entre sus formaciones rocosas."
+                        "descripcion": "Viaje a la bahía y crucero nocturno entre sus formaciones rocosas.",
+                        "latitud": 20.9101,
+                        "longitud": 107.1839
                     },
                     {
                         "dia": 4,
                         "titulo": "De Ha Long a Hué",
-                        "descripcion": "Regreso a tierra firme y vuelo a Hué, antigua capital imperial de Vietnam."
+                        "descripcion": "Regreso a tierra firme y vuelo a Hué, antigua capital imperial de Vietnam.",
+                        "latitud": 16.4637,
+                        "longitud": 107.5909
                     },
                     {
                         "dia": 5,
                         "titulo": "Ciudad imperial",
-                        "descripcion": "Visita a la Ciudadela, tumbas reales y paseo en barco por el río Perfume."
+                        "descripcion": "Visita a la Ciudadela, tumbas reales y paseo en barco por el río Perfume.",
+                        "latitud": 16.4726,
+                        "longitud": 107.5847
                     },
                     {
                         "dia": 6,
                         "titulo": "De Hué a Hoi An",
-                        "descripcion": "Viaje por carretera panorámica a Hoi An, con parada en el paso Hai Van."
+                        "descripcion": "Viaje por carretera panorámica a Hoi An, con parada en el paso Hai Van.",
+                        "latitud": 15.8801,
+                        "longitud": 108.3380
                     },
                     {
                         "dia": 7,
                         "titulo": "Encanto de Hoi An",
-                        "descripcion": "Tour a pie por el casco antiguo de Hoi An, sus templos, casas coloniales y mercados."
+                        "descripcion": "Tour a pie por el casco antiguo de Hoi An, sus templos, casas coloniales y mercados.",
+                        "latitud": 15.8801,
+                        "longitud": 108.3380
                     },
                     {
                         "dia": 8,
                         "titulo": "Vuelo a Ho Chi Minh",
-                        "descripcion": "Traslado al aeropuerto y vuelo a la ciudad de Ho Chi Minh. Tarde libre."
+                        "descripcion": "Traslado al aeropuerto y vuelo a la ciudad de Ho Chi Minh. Tarde libre.",
+                        "latitud": 10.7769,
+                        "longitud": 106.7009
                     },
                     {
                         "dia": 9,
                         "titulo": "Delta del Mekong",
-                        "descripcion": "Excursión de día completo al delta, explorando canales y pueblos locales."
+                        "descripcion": "Excursión de día completo al delta, explorando canales y pueblos locales.",
+                        "latitud": 10.1426,
+                        "longitud": 106.3730
                     },
                     {
                         "dia": 10,
                         "titulo": "Despedida de Vietnam",
-                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso.",
+                        "latitud": 10.8188,
+                        "longitud": 106.6518
                     }
                 ]
+            },
+            {
+                "id": 304,
+                "destino_id": 3,
+                "destino_combinado": true,
+                "pais_combinado": "Vietnam - Camboya",
+                "titulo": "De la Bahía de Ha Long a Angkor Wat",
+                "precio": 1780,
+                "duracion": "12 días",
+                "imagen_destacada": "assets/images/3/304.jpg",
+                "descripcion_corta": "Un viaje por la historia y naturaleza de Indochina.",
+                "descripcion_larga": "Recorre los paisajes de Vietnam y los templos milenarios de Camboya.",
+                "destacado": true,
+                "ruta_viaje": []
             }
         ]
     },
@@ -401,6 +523,8 @@
         "tours": [
             {
                 "id": 401,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 4,
                 "titulo": "Triángulo dorado",
                 "precio": 950,
@@ -412,37 +536,51 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Delhi",
-                        "descripcion": "Recepción y traslado al hotel. Tiempo libre para descansar o explorar los mercados locales."
+                        "descripcion": "Recepción y traslado al hotel. Tiempo libre para descansar o explorar los mercados locales.",
+                        "latitud": 28.6139,
+                        "longitud": 77.2090
                     },
                     {
                         "dia": 2,
                         "titulo": "Delhi histórico",
-                        "descripcion": "Visita a la mezquita Jama Masjid, Fuerte Rojo y Raj Ghat, lugar de descanso de Gandhi."
+                        "descripcion": "Visita a la mezquita Jama Masjid, Fuerte Rojo y Raj Ghat, lugar de descanso de Gandhi.",
+                        "latitud": 28.6562,
+                        "longitud": 77.2410
                     },
                     {
                         "dia": 3,
                         "titulo": "Agra y el Taj Mahal",
-                        "descripcion": "Viaje a Agra para visitar el Taj Mahal y el Fuerte de Agra, Patrimonio de la Humanidad."
+                        "descripcion": "Viaje a Agra para visitar el Taj Mahal y el Fuerte de Agra, Patrimonio de la Humanidad.",
+                        "latitud": 27.1751,
+                        "longitud": 78.0421
                     },
                     {
                         "dia": 4,
                         "titulo": "Jaipur, la ciudad rosa",
-                        "descripcion": "Visita al Palacio de los Vientos, el Fuerte Amber y el Observatorio Jantar Mantar."
+                        "descripcion": "Visita al Palacio de los Vientos, el Fuerte Amber y el Observatorio Jantar Mantar.",
+                        "latitud": 26.9124,
+                        "longitud": 75.7873
                     },
                     {
                         "dia": 5,
                         "titulo": "Regreso a Delhi",
-                        "descripcion": "Retorno a Delhi con tiempo libre para compras o visitas opcionales."
+                        "descripcion": "Retorno a Delhi con tiempo libre para compras o visitas opcionales.",
+                        "latitud": 28.6139,
+                        "longitud": 77.2090
                     },
                     {
                         "dia": 6,
                         "titulo": "Despedida de India",
-                        "descripcion": "Traslado al aeropuerto y fin del viaje."
+                        "descripcion": "Traslado al aeropuerto y fin del viaje.",
+                        "latitud": 28.5562,
+                        "longitud": 77.1000
                     }
                 ]
             },
             {
                 "id": 402,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 4,
                 "titulo": "Sur espiritual",
                 "precio": 1050,
@@ -454,42 +592,58 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Chennai",
-                        "descripcion": "Recepción y traslado al hotel. Paseo por la costa de Marina Beach."
+                        "descripcion": "Recepción y traslado al hotel. Paseo por la costa de Marina Beach.",
+                        "latitud": 13.0827,
+                        "longitud": 80.2707
                     },
                     {
                         "dia": 2,
                         "titulo": "Templos de Mahabalipuram",
-                        "descripcion": "Visita a las famosas esculturas rupestres y templos de la costa de Coromandel."
+                        "descripcion": "Visita a las famosas esculturas rupestres y templos de la costa de Coromandel.",
+                        "latitud": 12.6208,
+                        "longitud": 80.1931
                     },
                     {
                         "dia": 3,
                         "titulo": "Templos de Kanchipuram",
-                        "descripcion": "Exploración de templos antiguos y talleres de seda en esta ciudad sagrada."
+                        "descripcion": "Exploración de templos antiguos y talleres de seda en esta ciudad sagrada.",
+                        "latitud": 12.8342,
+                        "longitud": 79.7036
                     },
                     {
                         "dia": 4,
                         "titulo": "Pondicherry",
-                        "descripcion": "Visita a esta antigua colonia francesa, con su arquitectura y ambiente único."
+                        "descripcion": "Visita a esta antigua colonia francesa, con su arquitectura y ambiente único.",
+                        "latitud": 11.9139,
+                        "longitud": 79.8145
                     },
                     {
                         "dia": 5,
                         "titulo": "Templos de Tamil Nadu",
-                        "descripcion": "Visita a templos emblemáticos como Meenakshi en Madurai."
+                        "descripcion": "Visita a templos emblemáticos como Meenakshi en Madurai.",
+                        "latitud": 9.9190,
+                        "longitud": 78.1198
                     },
                     {
                         "dia": 6,
                         "titulo": "Regreso",
-                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso."
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de regreso.",
+                        "latitud": 13.0827,
+                        "longitud": 80.2707
                     },
                     {
                         "dia": 7,
                         "titulo": "Fin del viaje",
-                        "descripcion": "Día libre o vuelo según horario."
+                        "descripcion": "Día libre o vuelo según horario.",
+                        "latitud": 13.0827,
+                        "longitud": 80.2707
                     }
                 ]
             },
             {
                 "id": 403,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 4,
                 "titulo": "Varanasi y el Ganges",
                 "precio": 820,
@@ -501,27 +655,37 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Varanasi",
-                        "descripcion": "Recepción y traslado al hotel. Paseo por los ghats al atardecer."
+                        "descripcion": "Recepción y traslado al hotel. Paseo por los ghats al atardecer.",
+                        "latitud": 25.3176,
+                        "longitud": 83.0076
                     },
                     {
                         "dia": 2,
                         "titulo": "Rituales en el Ganges",
-                        "descripcion": "Observación de ceremonias al amanecer y recorrido por templos sagrados."
+                        "descripcion": "Observación de ceremonias al amanecer y recorrido por templos sagrados.",
+                        "latitud": 25.3176,
+                        "longitud": 83.0076
                     },
                     {
                         "dia": 3,
                         "titulo": "Sarnath",
-                        "descripcion": "Visita a la ciudad budista donde Buda dio su primer sermón."
+                        "descripcion": "Visita a la ciudad budista donde Buda dio su primer sermón.",
+                        "latitud": 25.3814,
+                        "longitud": 83.0217
                     },
                     {
                         "dia": 4,
                         "titulo": "Despedida",
-                        "descripcion": "Tiempo libre y traslado al aeropuerto para el regreso."
+                        "descripcion": "Tiempo libre y traslado al aeropuerto para el regreso.",
+                        "latitud": 25.4499,
+                        "longitud": 82.8598
                     }
                 ]
             },
             {
                 "id": 404,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 4,
                 "titulo": "Himalayas en India",
                 "precio": 980,
@@ -533,34 +697,60 @@
                     {
                         "dia": 1,
                         "titulo": "Llegada a Dehradun",
-                        "descripcion": "Recepción y traslado al hotel. Preparativos para la ruta por el Himalaya."
+                        "descripcion": "Recepción y traslado al hotel. Preparativos para la ruta por el Himalaya.",
+                        "latitud": 30.3165,
+                        "longitud": 78.0322
                     },
                     {
                         "dia": 2,
                         "titulo": "Rishikesh y Ashrams",
-                        "descripcion": "Visita a la ciudad espiritual, paseos por el río Ganges y prácticas de yoga."
+                        "descripcion": "Visita a la ciudad espiritual, paseos por el río Ganges y prácticas de yoga.",
+                        "latitud": 30.0869,
+                        "longitud": 78.2676
                     },
                     {
                         "dia": 3,
                         "titulo": "Valle de Valley of Flowers",
-                        "descripcion": "Excursión al parque nacional conocido por sus flores alpinas y paisajes."
+                        "descripcion": "Excursión al parque nacional conocido por sus flores alpinas y paisajes.",
+                        "latitud": 30.7280,
+                        "longitud": 79.6050
                     },
                     {
                         "dia": 4,
                         "titulo": "Haridwar",
-                        "descripcion": "Exploración de esta ciudad sagrada y sus baños rituales."
+                        "descripcion": "Exploración de esta ciudad sagrada y sus baños rituales.",
+                        "latitud": 29.9457,
+                        "longitud": 78.1642
                     },
                     {
                         "dia": 5,
                         "titulo": "Pueblos de montaña",
-                        "descripcion": "Visita a pueblos tradicionales y rutas de senderismo suaves."
+                        "descripcion": "Visita a pueblos tradicionales y rutas de senderismo suaves.",
+                        "latitud": 30.4530,
+                        "longitud": 78.0736
                     },
                     {
                         "dia": 6,
                         "titulo": "Regreso",
-                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de salida."
+                        "descripcion": "Desayuno y traslado al aeropuerto para el vuelo de salida.",
+                        "latitud": 30.3165,
+                        "longitud": 78.0322
                     }
                 ]
+            },
+            {
+                "id": 405,
+                "destino_id": 4,
+                "destino_combinado": true,
+                "pais_combinado": "India - Nepal",
+                "titulo": "Triángulo dorado y Himalaya",
+                "precio": 1990,
+                "duracion": "13 días",
+                "imagen_destacada": "assets/images/4/405.jpg",
+                "descripcion_corta": "Delhi, Agra, Katmandú y los valles del Himalaya.",
+                "descripcion_larga": "Un viaje espiritual y cultural entre India y Nepal.",
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -570,6 +760,8 @@
         "tours": [
             {
                 "id": 501,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 5,
                 "titulo": "Beijing esencial",
                 "precio": 990,
@@ -607,6 +799,8 @@
             },
             {
                 "id": 502,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 5,
                 "titulo": "Shanghai moderno",
                 "precio": 870,
@@ -641,11 +835,27 @@
                         "descripcion": "Traslado al aeropuerto y vuelo de vuelta."
                     }
                 ]
+            },
+            {
+                "id": 503,
+                "destino_id": 5,
+                "destino_combinado": true,
+                "pais_combinado": "China - Mongolia",
+                "titulo": "De la Gran Muralla a las estepas",
+                "precio": 2100,
+                "duracion": "14 días",
+                "imagen_destacada": "assets/images/5/503.jpg",
+                "descripcion_corta": "Beijing y Ulan Bator, historia y naturaleza.",
+                "descripcion_larga": "Viaja desde la Gran Muralla China hasta las estepas mongolas.",
+                "destacado": true,
+                "ruta_viaje": []
             }
         ]
     },
     {
         "destino_id": 6,
+        "destino_combinado": false,
+        "pais_combinado": null,
         "nombre_destino": "Corea del Sur",
         "tours": [
             {
@@ -692,6 +902,8 @@
             },
             {
                 "id": 602,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 6,
                 "titulo": "Jeju y naturaleza",
                 "precio": 910,
@@ -734,6 +946,8 @@
             },
             {
                 "id": 603,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 6,
                 "titulo": "Ruta K-pop y moda",
                 "precio": 980,
@@ -773,6 +987,20 @@
                         "descripcion": "Desayuno y traslado al aeropuerto."
                     }
                 ]
+            },
+            {
+                "id": 604,
+                "destino_id": 6,
+                "destino_combinado": true,
+                "pais_combinado": "Corea del Sur - Japón",
+                "titulo": "Islas y ciudades imperiales",
+                "precio": 1750,
+                "duracion": "10 días",
+                "imagen_destacada": "assets/images/6/604.jpg",
+                "descripcion_corta": "De Seúl a Kioto, cultura y paisajes.",
+                "descripcion_larga": "Descubre la cultura coreana y japonesa en un solo viaje.",
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -782,6 +1010,8 @@
         "tours": [
             {
                 "id": 701,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 7,
                 "titulo": "Bali espiritual",
                 "precio": 880,
@@ -819,6 +1049,8 @@
             },
             {
                 "id": 702,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 7,
                 "titulo": "Java volcánica",
                 "precio": 920,
@@ -858,6 +1090,20 @@
                         "descripcion": "Desayuno y traslado al aeropuerto."
                     }
                 ]
+            },
+            {
+                "id": 703,
+                "destino_id": 7,
+                "destino_combinado": true,
+                "pais_combinado": "Indonesia - Malasia",
+                "titulo": "Playas y selvas del Sudeste Asiático",
+                "precio": 1620,
+                "duracion": "11 días",
+                "imagen_destacada": "assets/images/7/703.jpg",
+                "descripcion_corta": "Bali y Borneo, naturaleza y aventura.",
+                "descripcion_larga": "Explora las playas de Bali y las selvas de Borneo.",
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -867,6 +1113,8 @@
         "tours": [
             {
                 "id": 801,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 8,
                 "titulo": "Katmandú y sus valles",
                 "precio": 690,
@@ -909,6 +1157,8 @@
             },
             {
                 "id": 802,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 8,
                 "titulo": "Trekking en Annapurna",
                 "precio": 1250,
@@ -966,6 +1216,8 @@
             },
             {
                 "id": 803,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 8,
                 "titulo": "Ruta budista",
                 "precio": 840,
@@ -1005,6 +1257,20 @@
                         "descripcion": "Desayuno y traslado al aeropuerto."
                     }
                 ]
+            },
+            {
+                "id": 804,
+                "destino_id": 8,
+                "destino_combinado": true,
+                "pais_combinado": "Nepal - India",
+                "titulo": "Ruta espiritual por el Himalaya y Varanasi",
+                "precio": 1850,
+                "duracion": "12 días",
+                "imagen_destacada": "assets/images/8/804.jpg",
+                "descripcion_corta": "Katmandú y Varanasi, espiritualidad y cultura.",
+                "descripcion_larga": "Un viaje por los templos de Nepal y los rituales del Ganges.",
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -1014,6 +1280,8 @@
         "tours": [
             {
                 "id": 901,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 9,
                 "titulo": "Triángulo cultural",
                 "precio": 780,
@@ -1056,6 +1324,8 @@
             },
             {
                 "id": 902,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 9,
                 "titulo": "Costa sur y elefantes",
                 "precio": 810,
@@ -1095,6 +1365,20 @@
                         "descripcion": "Traslado a Colombo y vuelo de regreso."
                     }
                 ]
+            },
+            {
+                "id": 903,
+                "destino_id": 9,
+                "destino_combinado": true,
+                "pais_combinado": "Sri Lanka - India",
+                "titulo": "Templos y naturaleza del sur de Asia",
+                "precio": 1720,
+                "duracion": "10 días",
+                "imagen_destacada": "assets/images/9/903.jpg",
+                "descripcion_corta": "Colombo, Kandy y Chennai.",
+                "descripcion_larga": "Descubre la cultura y naturaleza de Sri Lanka y el sur de India.",
+                "destacado": false,
+                "ruta_viaje": []
             }
         ]
     },
@@ -1104,6 +1388,8 @@
         "tours": [
             {
                 "id": 1001,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 10,
                 "titulo": "Kuala Lumpur moderna",
                 "precio": 700,
@@ -1115,6 +1401,8 @@
             },
             {
                 "id": 1002,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 10,
                 "titulo": "Selvas de Borneo",
                 "precio": 1150,
@@ -1126,12 +1414,28 @@
             },
             {
                 "id": 1003,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 10,
                 "titulo": "Islas Perhentian",
                 "precio": 860,
                 "duracion": "5 días",
                 "imagen_destacada": "assets/images/10/1003.jpg",
                 "descripcion_corta": "Playas vírgenes y vida marina.",
+                "destacado": false,
+                "ruta_viaje": []
+            },
+            {
+                "id": 1004,
+                "destino_id": 10,
+                "destino_combinado": true,
+                "pais_combinado": "Malasia - Singapur",
+                "titulo": "Ciudades modernas y naturaleza tropical",
+                "precio": 1550,
+                "duracion": "8 días",
+                "imagen_destacada": "assets/images/10/1004.jpg",
+                "descripcion_corta": "Kuala Lumpur y Singapur, dos metrópolis vibrantes.",
+                "descripcion_larga": "Un recorrido por la arquitectura y naturaleza de Malasia y Singapur.",
                 "destacado": false,
                 "ruta_viaje": []
             }
@@ -1143,6 +1447,8 @@
         "tours": [
             {
                 "id": 1101,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 11,
                 "titulo": "Angkor Wat y Siem Reap",
                 "precio": 790,
@@ -1154,6 +1460,8 @@
             },
             {
                 "id": 1102,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 11,
                 "titulo": "Phnom Penh histórico",
                 "precio": 620,
@@ -1171,6 +1479,8 @@
         "tours": [
             {
                 "id": 1201,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 12,
                 "titulo": "Islas de Palawan",
                 "precio": 990,
@@ -1182,6 +1492,8 @@
             },
             {
                 "id": 1202,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 12,
                 "titulo": "Manila metropolitana",
                 "precio": 670,
@@ -1193,6 +1505,8 @@
             },
             {
                 "id": 1203,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 12,
                 "titulo": "Cebú y naturaleza",
                 "precio": 850,
@@ -1210,6 +1524,8 @@
         "tours": [
             {
                 "id": 1301,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 13,
                 "titulo": "Estepas de Mongolia",
                 "precio": 1100,
@@ -1221,6 +1537,8 @@
             },
             {
                 "id": 1302,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 13,
                 "titulo": "Ulan Bator y alrededores",
                 "precio": 720,
@@ -1238,6 +1556,8 @@
         "tours": [
             {
                 "id": 1401,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 14,
                 "titulo": "Samarcanda histórica",
                 "precio": 950,
@@ -1249,6 +1569,8 @@
             },
             {
                 "id": 1402,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 14,
                 "titulo": "Bujará y tradición",
                 "precio": 890,
@@ -1260,6 +1582,8 @@
             },
             {
                 "id": 1403,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 14,
                 "titulo": "Desierto de Kyzyl Kum",
                 "precio": 980,
@@ -1277,6 +1601,8 @@
         "tours": [
             {
                 "id": 1501,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 15,
                 "titulo": "Almaty urbana",
                 "precio": 740,
@@ -1288,6 +1614,8 @@
             },
             {
                 "id": 1502,
+                "destino_combinado": false,
+                "pais_combinado": null,
                 "destino_id": 15,
                 "titulo": "Montañas de Tian Shan",
                 "precio": 1080,
